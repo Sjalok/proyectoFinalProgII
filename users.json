@@ -1,5 +1,5 @@
-[{  
-    "usuarios": [{
+[  
+    {
         "nombre":"Administrador",
         "contrasenia": 12345
     }, 
@@ -27,5 +27,4 @@
         "nombre":"Clara",
         "contrasenia": 12345
     }
-    ]
-}]
+]
