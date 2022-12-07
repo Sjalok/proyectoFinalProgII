@@ -1,24 +1,31 @@
-[{
+[{  
     "usuarios": [{
-        "nombre":"Administrador"
+        "nombre":"Administrador",
+        "contrasenia": 12345
     }, 
     {
-        "nombre":"Josefina"
+        "nombre":"Josefina",
+        "contrasenia": 12345
     },
     {
-        "nombre":"Pancracio"
+        "nombre":"Pancracio",
+        "contrasenia": 12345
     },
     {
-        "nombre":"Maximiliano"
+        "nombre":"Maximiliano",
+        "contrasenia": 12345
     },
     {
-        "nombre":"Emily"
+        "nombre":"Emily",
+        "contrasenia": 12345
     },
     {
-        "nombre":"Hernan"
+        "nombre":"Hernan",
+        "contrasenia": 12345
     },
     {
-        "nombre":"Clara"
+        "nombre":"Clara",
+        "contrasenia": 12345
     }
     ]
 }]
