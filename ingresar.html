@@ -1,0 +1,15 @@
+{% extends "plantila.html" %}
+
+{% block body %}
+<h1>Bienvenidos!</h1>
+ <form action="" method="post">
+    <label for="nombre">Nombre de Usuario </label>
+    <input type="text" id="nombre" name="n_usuario">
+
+    <label for="contraseña">Contraseña </label>
+    <input type="password" name="c_usuario" id="contraseña">
+
+    <input type="submit" id="ingresar" name="submit">
+    <label for="ingresar">INGRESAR</label>
+ </form>
+{% endblock %}

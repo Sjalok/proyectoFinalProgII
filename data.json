@@ -1,7 +1,25 @@
 [{
-    "peliculas": [{
-        "nombre":"Esperando la carroza",
-        "año":"1985"
-    }
-    ]
-}]
+    "nombre":"Esperando la carroza",
+    "año":"1985",
+    "director": "aaa",
+    "genero": "humor",
+    "sinopsis": "habia una vez truz",
+    "imagen": "http:asdaspda.ar"
+},
+{
+    "nombre":"happy feet",
+    "año":"2005",
+    "director": "aaasdasda",
+    "genero": "infantil",
+    "sinopsis": "habia una vez truz",
+    "imagen": "http:asdaspda.ar"
+},
+{
+    "nombre":"IT",
+    "año":"2013",
+    "director": "aaa",
+    "genero": "terror",
+    "sinopsis": "habia una vez truz",
+    "imagen": "http:asdaspda.ar"
+}
+]
