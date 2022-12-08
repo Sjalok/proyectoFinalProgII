@@ -7,19 +7,15 @@
 <h1>BIENVENIDOS A "RECOMENDAME_UNA_PELI.COM"</h1>
 <br>
 <br>
-<br>
 <h2>NUESTRAS 10 ULTIMAS PELIS RECOMENDADAS:</h2>
 <br>
 {% for peli in data %}
-{{ peli.nombre }}
+<h2>{{ peli.nombre }}</h2>
+<h2>{{ peli.anio }}</h2>
+<h2>{{ peli.director }}</h2>
+<h2>{{ peli.genero }}</h2>
+<h3>{{ peli.sinapsis }}</h3>
 <br>
-{{ peli.anio }}
-<br>
-{{ peli.director }}
-<br>
-{{ peli.genero }}
-<br>
-{{ peli.sinapsis }}
-<br>
+
 {% endfor %}
 {% endblock %}

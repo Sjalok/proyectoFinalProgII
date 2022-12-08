@@ -19,7 +19,7 @@ def index():
 
 @app.route("/login")
 def login():
-    return render_template("/ngresar.html")
+    return render_template("ngresar.html")
 
 #si el nombre del objeto flask es el main, ejecutalo.
 if __name__ =="__main__":
