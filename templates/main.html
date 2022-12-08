@@ -1,4 +1,4 @@
-{% extends "plantila.html" %}
+{% extends "plantilla.html" %}
 <a href="http://127.0.0.1:5000/login">iniciar sesion</a>
 <br>
 <br>
@@ -9,5 +9,17 @@
 <br>
 <br>
 <h2>NUESTRAS 10 ULTIMAS PELIS RECOMENDADAS:</h2>
-
+<br>
+{% for peli in data %}
+{{ peli.nombre }}
+<br>
+{{ peli.anio }}
+<br>
+{{ peli.director }}
+<br>
+{{ peli.genero }}
+<br>
+{{ peli.sinapsis }}
+<br>
+{% endfor %}
 {% endblock %}
