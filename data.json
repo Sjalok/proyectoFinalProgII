@@ -1,25 +1,129 @@
 [{
     "nombre":"Esperando la carroza",
     "anio":"1985",
-    "director": "aaa",
+    "director": "Alejandro Doria",
     "genero": "humor",
-    "sinopsis": "habia una vez truz",
-    "imagen": "http:asdaspda.ar"
+    "sinopsis": "Mama Cora se acerca a los 80 años y vive con el más pobre de sus hijos. La familia decide reunirse para hablar sobre quien será el próximo en cuidar la madre y todo el mundo intenta esquivar la responsabilidad. Las discusiones se terminan cuando reciben la noticia que Mama Cora se ha suicidado. Ahora todo serán lamentaciones. Comedia argentina de gran éxito en el país, se basa en la divertida obra de teatro homónima del uruguayo Jacobo Langsner. Fue tanta la expectación que despertó en su estreno, que ha sido considerada un clásico del cine argentino e, incluso, los crítico la han clasificado como una de las mejores cintas cómicas de la historia de Argentina.",
+    "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm512185.html&psig=AOvVaw3I0_f00HIAxGVvlmr-LWlh&ust=1670983001132000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDXmO--9fsCFQAAAAAdAAAAABAE"
 },
 {
     "nombre":"happy feet",
     "anio":"2005",
-    "director": "aaasdasda",
-    "genero": "infantil",
-    "sinopsis": "habia una vez truz",
-    "imagen": "http:asdaspda.ar"
+    "director": "George Miller",
+    "genero": "animacion",
+    "sinopsis": "En la gran nación de los Pingüinos Emperador, en lo más profundo de la Antártida, no eres nadie si no sabes cantar, lo cual representa una gran desventaja para Mumble (voz de Elijah Wood), que es el peor cantante del mundo. Ha nacido bailando según su propio estilo claqué.",
+    "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHappy_Feet&psig=AOvVaw3Ldr9IDxWOjnZEDiQXE4TH&ust=1670986952414000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDesebN9fsCFQAAAAAdAAAAABAE"
 },
 {
     "nombre":"IT",
-    "anio":"2013",
-    "director": "aaa",
+    "anio":"2017",
+    "director": "Andres Muschietti",
     "genero": "terror",
-    "sinopsis": "habia una vez truz",
-    "imagen": "http:asdaspda.ar"
+    "sinopsis": "La película cuenta la historia de siete niños marginados del municipio de Derry, Maine (EE. UU.), que se llaman a sí mismos El Club de los Perdedores. Todos se han visto marginados por uno u otro motivo; todos cargan con alguna de las cualidades favoritas de los abusones de la ciudad... y todos han visto sus peores pesadillas hacerse realidad en forma de un antiguo depredador que cambia de forma y al que solo logran llamar eso",
+    "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm312346.html&psig=AOvVaw2h0CmFoLdSWXVK35EfWWdQ&ust=1670987154613000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDSg7DO9fsCFQAAAAAdAAAAABAE"
+},
+{
+    "nombre":"Nueve reinas",
+    "anio":"2000",
+    "director":"Fabian Bielinsky",
+    "genero":"Suspenso",
+    "sinopsis":"Buenos Aires. Juan y Marcos son dos estafadores de poca monta, uno joven y un veterano en el arte del timo, que casualmente se ven envueltos en un asunto que les puede hacer millonarios: tienen menos de un día para hacer una estafa que no puede fallar.",
+    "imagen":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.infobae.com%2Fteleshow%2Finfoshow%2F2020%2F08%2F31%2F20-anos-de-nueve-reinas-la-pelicula-de-culto-que-fue-radiografia-de-su-epoca%2F&psig=AOvVaw2BVJTCDc7Az_MA_akPXXgj&ust=1670987292364000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjD0fHO9fsCFQAAAAAdAAAAABAE"
+},
+{
+    "nombre":"El secreto de sus ojos",
+    "anio":"2009",
+    "director":"Juan Jose Campanella",
+    "genero":"Drama",
+    "sinopsis":"Benjamín Espósito es oficial de un Juzgado de Instrucción de Buenos Aires recién retirado. Obsesionado por un brutal asesinato ocurrido veinticinco años antes, en 1974, decide escribir una novela sobre el caso, del cual fue testigo y protagonista. Reviviendo el pasado, viene también a su memoria el recuerdo de una mujer, a quien ha amado en silencio durante todos esos años.",
+    "imagen":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.primevideo.com%2Fdetail%2FEl-secreto-de-sus-ojos%2F0M2EGBICI4NUF6DFTRX7XY3IMS&psig=AOvVaw3lqAH-trCYT99AkWNtBOre&ust=1670987417749000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLj2uK3P9fsCFQAAAAAdAAAAABAE"
+},
+{
+    "nombre":"Reservoir Dogs",
+    "anio":"1992",
+    "director":"Quentin Tarantino",
+    "genero":"Crimen",
+    "sinopsis":"Una banda organizada es contratada para atracar una empresa y llevarse unos diamantes. Sin embargo, antes de que suene la alarma, la policía ya está allí. Algunos miembros de la banda mueren en el enfrentamiento con las fuerzas del orden, y los demás se reúnen en el lugar convenido.",
+    "imagen":""
+},
+{
+    "nombre":"Pulp Fiction",
+    "anio":"1994",
+    "director":"Quentin Tarantino",
+    "genero":"Humor negro",
+    "sinopsis":"Jules y Vincent, dos asesinos a sueldo con no demasiadas luces, trabajan para el gángster Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su atractiva mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+    "imagen":""
+},
+{
+    "nombre":"Inglourious Bastards",
+    "anio":"2009",
+    "director":"Quentin Tarantino",
+    "genero":"Belica",
+    "sinopsis":"",
+    "imagen":""
+},
+{
+    "nombre":"The Hateful Eight",
+    "anio":"2015",
+    "director":"Quentin Tarantino",
+    "genero":"Western",
+    "sinopsis":"Pocos años después de la Guerra de Secesión, una diligencia avanza por el invernal paisaje de Wyoming. Los pasajeros, el cazarrecompensas John Ruth (Kurt Russell) y su fugitiva Daisy Domergue (Jennifer Jason Leigh), intentan llegar al pueblo de Red Rock, donde Ruth entregará a Domergue a la justicia. Por el camino, se encuentran con dos desconocidos: el mayor Marquis Warren (Samuel L. Jackson), un antiguo soldado de la Unión convertido en cazarrecompensas de mala reputación, y Chris Mannix (Walton Goggins), un renegado sureño que afirma ser el nuevo sheriff del pueblo. Como se aproxima una ventisca, los cuatro se refugian en la Mercería de Minnie, una parada para diligencias de un puerto de montaña. Cuando llegan al local se topan con cuatro rostros desconocidos: el mexicano Bob (Demian Bichir), Oswaldo Mobray (Tim Roth), verdugo de Red Rock, el vaquero Joe Gage (Michael Madsen) y el general confederado Sanford Smithers (Bruce Dern). Mientras la tormenta cae sobre la parada de montaña, los ocho viajeros descubren que tal vez no lleguen hasta Red Rock después de todo",
+    "imagen":""
+},
+{
+    "nombre":"Once Upon a Time in Hollywood",
+    "anio":"2019",
+    "director":"Quentin Tarantino",
+    "genero":"Humor negro",
+    "sinopsis":"Hollywood, años 60. La estrella de un western televisivo, Rick Dalton (DiCaprio), intenta amoldarse a los cambios del medio al mismo tiempo que su doble (Pitt). La vida de Dalton está ligada completamente a Hollywood, y es vecino de la joven y prometedora actriz y modelo Sharon Tate (Robbie) que acaba de casarse con el prestigioso director Roman Polanski.",
+    "imagen":""
+},
+{
+    "nombre":"2001: A Space Odyssey",
+    "anio":"1968",
+    "director":"Stanley Kubrick",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"La película de ciencia-ficción por excelencia de la historia del cine narra los diversos periodos de la historia de la humanidad, no sólo del pasado, sino también del futuro. Hace millones de años, antes de la aparición del homo sapiens, unos primates descubren un monolito que los conduce a un estadio de inteligencia superior. Millones de años después, otro monolito, enterrado en una luna, despierta el interés de los científicos. Por último, durante una misión de la NASA, HAL 9000, una máquina dotada de inteligencia artificial, se encarga de controlar todos los sistemas de una nave espacial tripulada",
+    "imagen":""
+},
+{
+    "nombre":"Clockwork Orange",
+    "anio":"1971",
+    "director":"Stanley Kubrick",
+    "genero":"Drama",
+    "sinopsis":"Gran Bretaña, en un futuro indeterminado. Alex (Malcolm McDowell) es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes apaleando, violando y aterrorizando a la población. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisión, se someterá voluntariamente a una innovadora experiencia de reeducación que pretende anular drásticamente cualquier atisbo de conducta antisocial",
+    "imagen":""
+},
+{
+    "nombre":"The Shining",
+    "anio":"1980",
+    "director":"Stanley Kubrick",
+    "genero":"Terror",
+    "sinopsis":"Jack Torrance se traslada con su mujer y su hijo de siete años al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento de las instalaciones durante la temporada invernal, época en la que permanece cerrado y aislado por la nieve. Su objetivo es encontrar paz y sosiego para escribir una novela. Sin embargo, poco después de su llegada al hotel, al mismo tiempo que Jack empieza a padecer inquietantes trastornos de personalidad, se suceden extraños y espeluznantes fenómenos paranormales.",
+    "imagen":""
+},
+{
+    "nombre":"Full Metal Jacket",
+    "anio":"1987",
+    "director":"Stanley Kubrick",
+    "genero":"Belica",
+    "sinopsis":"Un grupo de reclutas se prepara en Parris Island, centro de entrenamiento de la marina norteamericana. Están bajo las órdenes del sargento Hartman, duro e implacable, cuya única misión en la vida es endurecer el cuerpo y el alma de los novatos, con el objetivo de que en el futuro puedan defenderse del enemigo. Pero no todos los jóvenes están preparados para soportar sus métodos.",
+    "imagen":""
+},
+{
+    "nombre":"Eyes Wide Shut",
+    "anio":"1999",
+    "director":"Stanley Kubrick",
+    "genero":"Drama",
+    "sinopsis":"William Harford es un respetable médico neoyorquino cuya vida parece ir muy bien: está casado con una preciosa mujer, tiene una hija y un trabajo que le gusta. Pero, al día siguiente de asistir a una fiesta, su esposa Alice le habla de unas fantasías eróticas y de cómo estuvo a punto de romper su matrimonio por un desconocido. Abrumado por esta confesión, acaba entrando en un local, donde un antiguo compañero le habla de una congregación secreta dedicada al hedonismo y al placer sin límites. A partir de entonces un mundo dominado por el sexo y el erotismo se abre ante él.",
+    "imagen":""
+},
+{
+    "nombre":"Rosemary´s baby",
+    "anio":"1968",
+    "director":"Roman Polanski",
+    "genero":"Terror",
+    "sinopsis":"Los Woodhouse, un matrimonio neoyorquino, se mudan a un edificio situado frente a Central Park, sobre el cual, según un amigo, pesa una maldición. Una vez instalados, se hacen amigos de Minnie y Roman Castevet, unos vecinos que los colman de atenciones. Ante la perspectiva de un buen futuro, los Woodhouse deciden tener un hijo; pero, cuando Rosemary se queda embarazada, lo único que recuerda es haber hecho el amor con una extraña criatura que le ha dejado el cuerpo lleno de marcas. Con el paso del tiempo, Rosemary empieza a sospechar que su embarazo no es normal.",
+    "imagen":""
 }
 ]
