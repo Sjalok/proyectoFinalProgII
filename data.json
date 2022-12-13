@@ -2,7 +2,7 @@
     "nombre":"Esperando la carroza",
     "anio":"1985",
     "director": "Alejandro Doria",
-    "genero": "humor",
+    "genero": "Humor",
     "sinopsis": "Mama Cora se acerca a los 80 años y vive con el más pobre de sus hijos. La familia decide reunirse para hablar sobre quien será el próximo en cuidar la madre y todo el mundo intenta esquivar la responsabilidad. Las discusiones se terminan cuando reciben la noticia que Mama Cora se ha suicidado. Ahora todo serán lamentaciones. Comedia argentina de gran éxito en el país, se basa en la divertida obra de teatro homónima del uruguayo Jacobo Langsner. Fue tanta la expectación que despertó en su estreno, que ha sido considerada un clásico del cine argentino e, incluso, los crítico la han clasificado como una de las mejores cintas cómicas de la historia de Argentina.",
     "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm512185.html&psig=AOvVaw3I0_f00HIAxGVvlmr-LWlh&ust=1670983001132000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDXmO--9fsCFQAAAAAdAAAAABAE"
 },
@@ -10,7 +10,7 @@
     "nombre":"happy feet",
     "anio":"2005",
     "director": "George Miller",
-    "genero": "animacion",
+    "genero": "Animacion",
     "sinopsis": "En la gran nación de los Pingüinos Emperador, en lo más profundo de la Antártida, no eres nadie si no sabes cantar, lo cual representa una gran desventaja para Mumble (voz de Elijah Wood), que es el peor cantante del mundo. Ha nacido bailando según su propio estilo claqué.",
     "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHappy_Feet&psig=AOvVaw3Ldr9IDxWOjnZEDiQXE4TH&ust=1670986952414000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDesebN9fsCFQAAAAAdAAAAABAE"
 },
@@ -18,7 +18,7 @@
     "nombre":"IT",
     "anio":"2017",
     "director": "Andres Muschietti",
-    "genero": "terror",
+    "genero": "Terror",
     "sinopsis": "La película cuenta la historia de siete niños marginados del municipio de Derry, Maine (EE. UU.), que se llaman a sí mismos El Club de los Perdedores. Todos se han visto marginados por uno u otro motivo; todos cargan con alguna de las cualidades favoritas de los abusones de la ciudad... y todos han visto sus peores pesadillas hacerse realidad en forma de un antiguo depredador que cambia de forma y al que solo logran llamar eso",
     "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm312346.html&psig=AOvVaw2h0CmFoLdSWXVK35EfWWdQ&ust=1670987154613000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDSg7DO9fsCFQAAAAAdAAAAABAE"
 },
@@ -124,6 +124,222 @@
     "director":"Roman Polanski",
     "genero":"Terror",
     "sinopsis":"Los Woodhouse, un matrimonio neoyorquino, se mudan a un edificio situado frente a Central Park, sobre el cual, según un amigo, pesa una maldición. Una vez instalados, se hacen amigos de Minnie y Roman Castevet, unos vecinos que los colman de atenciones. Ante la perspectiva de un buen futuro, los Woodhouse deciden tener un hijo; pero, cuando Rosemary se queda embarazada, lo único que recuerda es haber hecho el amor con una extraña criatura que le ha dejado el cuerpo lleno de marcas. Con el paso del tiempo, Rosemary empieza a sospechar que su embarazo no es normal.",
-    "imagen":""
+    "imagen":"https://www.google.com.ar/url?sa=i&url=https%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm721028.html&psig=AOvVaw0fy97YGck7fx9nH9_ohV2X&ust=1671047465955000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKC74Iav9_sCFQAAAAAdAAAAABAE"
+},
+{
+    "nombre":"Chinatown",
+    "anio":"1974",
+    "director":"Roman Polanski",
+    "genero":"Crimen",
+    "sinopsis":"Los Ángeles, 1937. El detective Gittes, especializado en divorcios, recibe la visita de la esposa de Mulwray, el jefe del Servicio de Aguas de la ciudad, que sospecha que su marido la engaña. Al mismo tiempo, Gittes descubre que los agricultores acusan a Mulwray de corrupción por su negativa a construir un pantano que paliaría la sequía que sufren. Poco después, el escándalo salta a la prensa, pero la cosa se complica cuando una mujer se presenta en el despacho de Gittes con una sorprendente revelación.",
+    "imagen":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0071315%2F&psig=AOvVaw248B0W4dkzyK4Xxi-16KYx&ust=1671047608593000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjngsuv9_sCFQAAAAAdAAAAABAE"
+},
+{
+    "nombre":"The Pianist",
+    "anio":"2002",
+    "director":"Roman Polanski",
+    "genero":"Drama",
+    "sinopsis":"Wladyslaw Szpilman, un brillante pianista polaco de origen judío, vive con su familia en el ghetto de Varsovia. Cuando, en 1939, los alemanes invaden Polonia, consigue evitar la deportación gracias a la ayuda de algunos amigos. Pero tendrá que vivir escondido y completamente aislado durante mucho tiempo, y para sobrevivir tendrá que afrontar constantes peligros.",
+    "imagen":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm112475.html&psig=AOvVaw2TQ6K43j8lvnuBMOEo2-De&ust=1671047702818000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDdg_iv9_sCFQAAAAAdAAAAABAE"
+},
+{
+    "nombre":"Schindler´s List",
+    "anio":"1993",
+    "director":"Steven Spielberg",
+    "genero":"Drama",
+    "sinopsis":"Oskar Schindler (Liam Neeson), un empresario alemán de gran talento para las relaciones públicas, busca ganarse la simpatía de los nazis de cara a su beneficio personal. Después de la invasión de Polonia por los alemanes en 1939, Schindler consigue, gracias a sus relaciones con los altos jerarcas nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente, gracias sobre todo a su gerente Itzhak Stern (Ben Kingsley), también judío. Pero conforme la guerra avanza, Schindler y Stern comienzan ser conscientes de que a los judíos que contratan, los salvan de una muerte casi segura en el temible campo de concentración de Plaszow, que lidera el Comandante nazi Amon Goeth (Ralph Fiennes), un hombre cruel que disfruta ejecutando judíos.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "nombre":"Jaws",
+    "anio":"1975",
+    "director":"Steven Spielberg",
+    "genero":"Terror",
+    "sinopsis":"En la costa de un pequeño pueblo del Este de los Estados Unidos, un enorme tiburón ataca a varias personas. Por temor a los nefastos efectos que este hecho podría tener sobre el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón termina con la vida de un bañista. Cuando el terror se apodera de todos, un veterano cazador de tiburones, un oceanógrafo y el jefe de la policía local se unen para intentar capturar al escualo.",
+    "imagen":"https://upload.wikimedia.org/wikipedia/en/e/eb/JAWS_Movie_poster.jpg"
+},
+{
+    "nombre":"Close Encounters of the Third Kind",
+    "anio":"1977",
+    "director":"Steven Spielberg",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"Una noche, cerca de su casa, en Indiana, Roy Neary (Richard Dreyfuss) observa en el cielo unos misteriosos objetos voladores. Desde entonces vive tan obsesionado por comprender lo que ha visto que se distancia de su esposa (Teri Garr). Encuentra apoyo en una mujer que también ha sido testigo de los mismos hechos, y juntos intentan encontrar una respuesta al misterio que ha alterado sus vidas. Al mismo tiempo, un nutrido grupo de científicos internacionales comienza a investigar las apariciones de ovnis y otros extraños fenómenos en la zona.",
+    "imagen":"https://flxt.tmsimg.com/assets/p5124_p_v8_aw.jpg"
+},
+{
+    "nombre":"E-T The Extraterrestrial",
+    "anio":"1982",
+    "director":"Steven Spielberg",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave, al emprender el regreso, se olvida de él. Está completamente solo y tiene miedo, pero se hará amigo de un niño, que lo esconde en su casa. El pequeño y sus hermanos intentan encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que lo encuentren los científicos y la policía.",
+    "imagen":"https://poptaim.com/wp-content/uploads/2020/09/E.T_MOVIE-900x600.jpg"
+},
+{
+    "nombre":"Jurassic Park",
+    "anio":"1993",
+    "director":"Steven Spielberg",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"El multimillonario John Hammond consigue hacer realidad su sueño de clonar dinosaurios del Jurásico y crear con ellos un parque temático en una isla remota. Antes de abrirlo al público, invita a una pareja de eminentes científicos y a un matemático para que comprueben la viabilidad del proyecto. Pero las medidas de seguridad del parque no prevén el instinto de supervivencia de la madre naturaleza ni la codicia humana.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg"
+},
+{
+    "nombre":"A.I. Artificial Intelligence",
+    "anio":"2001",
+    "director":"Steven Spielberg",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"En un mundo futuro, los seres humanos conviven con sofisticados robots llamados Mecas. Los sentimientos son lo único que diferencia a los hombres de las máquinas. Pero, cuando a un robot-niño llamado David se le programa para amar, los hombres no están preparados para las consecuencias, y David se encontrará solo en un extraño y peligroso mundo.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BNWU2NzEyMDYtM2MyOS00OGM3LWFkNzAtMzRiNzE2ZjU5ZTljXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "nombre":"Catch Me If You Can",
+    "anio":"2002",
+    "director":"Steven Spielberg",
+    "genero":"Drama",
+    "sinopsis":"Basada en una historia real. En los años sesenta, Frank W. Abagnale (Leonardo DiCaprio) era un joven y escurridizo delincuente que adoptaba diversas identidades (médico, abogado o copiloto de líneas aéreas). Carl Hanratty (Tom Hanks), un agente del FBI, tenía la misión de seguir su pista y capturarlo para llevarlo ante la justicia, pero Frank siempre iba un paso por delante de él.",
+    "imagen":"https://graffica.info/wp-content/uploads/2017/03/atrapamesipuedes0201-724x1024.jpg"
+},
+{
+    "nombre":"The Terminal",
+    "anio":"2004",
+    "director":"Steven Spielberg",
+    "genero":"Comedia",
+    "sinopsis":"Victor Navorski, un ciudadano de un pequeño país del Este europeo, se ve involuntariamente exiliado en la terminal internacional del aeropuerto JFK de Nueva York cuando estalla una guerra civil en su tierra de origen. A raíz del conflicto, el pasaporte de Victor queda anulado y se ve obligado a quedarse en la terminal, ya que no puede pisar suelo estadounidense ni subir a ningún avión. Durante su estancia, hará de todo para sobrevivir y entablará relación con el personal que trabaja en el aeropuerto, especialmente con una bella azafata y con el estricto responsable de seguridad de la instalación. Película inspirada en el caso real de un exiliado iraní que estuvo viviendo 18 años en la terminal internacional del aeropuerto Charles De Gaulle de París.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BMTY3NTExOTk0MF5BMl5BanBnXkFtZTcwNzIxMjQyMw@@._V1_.jpg"
+},
+{
+    "nombre":"Saving Private Ryan",
+    "anio":"1998",
+    "director":"Steven Spielberg",
+    "genero":"Belica",
+    "sinopsis":"Segunda Guerra Mundial, 1944. Tras el desembarco de los Aliados en Normandía, a un grupo de soldados americanos se le encomienda una peligrosa misión: poner a salvo al soldado James Ryan. Los hombres de la patrulla del capitán John Miller deben arriesgar sus vidas para encontrar a este soldado, cuyos tres hermanos han muerto en la guerra. Lo único que se sabe del soldado Ryan es que se lanzó con su escuadrón de paracaidistas detrás de las líneas enemigas.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nombre":"The Shawshank Redemption",
+    "anio":"1994",
+    "director":"Frank Darabont",
+    "genero":"Drama",
+    "sinopsis":"Acusado del asesinato de su mujer, Andrew Dufresne (Tim Robbins), tras ser condenado a cadena perpetua, es enviado a la cárcel de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros de prisión, especialmente de Red (Morgan Freeman), el jefe de la mafia de los sobornos.",
+    "imagen":"https://flxt.tmsimg.com/assets/p15987_p_v8_ai.jpg"
+},
+{
+    "nombre":"The Green Mile",
+    "anio":"1999",
+    "director":"Frank Darabont",
+    "genero":"Drama",
+    "sinopsis":"Ambientada en el sur de los Estados Unidos, en plena Depresión. Paul Edgecomb es un funcionario de prisiones encargado de vigilar la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. John Coffey, un gigantesco hombre negro acusado de asesinar brutalmente a dos hermanas de nueve años, está esperando su inminente ejecución. Tras una personalidad ingenua e infantil, Coffey esconde un prodigioso don sobrenatural.",
+    "imagen":"https://flxt.tmsimg.com/assets/p24429_p_v12_bf.jpg"
+},
+{
+    "nombre":"The Mist",
+    "anio":"2007",
+    "director":"Frank Darabont",
+    "genero":"Terror",
+    "sinopsis":"En un pequeño pueblo de Maine, estalla de repente una violenta tormenta que termina tan bruscamente como comenzó. Entonces surge una espesa niebla que va entrando en casas y supermercados, atrapando y matando a todos los que se ven envueltos por la oscuridad.",
+    "imagen":"https://static.wikia.nocookie.net/stephenkingsthemist/images/6/6e/The_Mist.jpg/revision/latest?cb=20110506180931"
+},
+{
+    "nombre":"Super 8",
+    "anio":"2011",
+    "director":"J.J. Abrams",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"Año 1979, en una pequeña población de Ohio. Joe Lamb (Joel Courtney), un muchacho que vive en un pueblo de Ohio, acaba de perder a su madre en un accidente y vive con su padre, que es policía (Kyle Chandler). Meses después, durante el verano, Joe y sus amigos ruedan una película de zombis en Super 8 cuando contempla cómo una camioneta se estrella contra un tren de mercancías, provocando su descarrilamiento y un terrible accidente. A partir de ese momento cosas extrañas e inexplicables comienzan a suceder en el pueblo.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BMjIzNjEyMzcwOF5BMl5BanBnXkFtZTcwMTkyMjE0NQ@@._V1_.jpg"
+},
+{
+    "nombre":"The Fourth Kind",
+    "anio":"2009",
+    "director":"Olatunde Osunsanmi",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"Thriller sobrenatural ambientado en Alaska en el que una mujer investiga una serie de misteriosas desapariciones ocurridas en el lugar durante los últimos 40 años. A finales del año 2000, los pacientes de la terapeuta Abbey Tyler, bajo hipnosis, reflejaron comportamientos que sugerían encuentros con seres no humanos. Antes de dormir, todos ellos aseguraban haber visto un búho que les observaba desde fuera de la ventana. Y despertaban completamente paralizados, escuchando ruidos terroríficos que provenían de fuera de la habitación. Los recuerdos posteriores se sumían en la oscuridad. La doctora prosiguió con sus investigaciones, descubriendo que la desaparición de personas y sucesos extraños en la región se remontaba a los años 60.",
+    "imagen":"https://flxt.tmsimg.com/assets/p3630349_p_v8_ae.jpg"
+},
+{
+    "nombre":"The Sixth Sense",
+    "anio":"1999",
+    "director":"M. Night Shyamalan",
+    "genero":"Terror",
+    "sinopsis":"El doctor Malcom Crowe es un conocido psicólogo infantil de Philadelphia que vive obsesionado por el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cuando conoce a Cole Sear, un aterrorizado y confuso niño de ocho años que necesita tratamiento, ve que se le presenta la oportunidad de redimirse haciendo todo lo posible por ayudarlo. Sin embargo, el doctor Crowe no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
+    "imagen":"https://flxt.tmsimg.com/assets/p23611_p_v8_ah.jpg"
+},
+{
+    "nombre":"Signs",
+    "anio":"2002",
+    "director":"M. Night Shyamalan",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"Graham Hess (Mel Gibson) es un pastor protestante que vive con sus dos hijos (Rory Culkin y Abigail Breslin) y con su hermano Merrill (Joaquin Phoenix), una antigua estrella del béisbol que trabaja en una gasolinera. Tras la muerte de su esposa en un accidente de tráfico, Graham pierde la fe y, en consecuencia, abandona a sus feligreses. Una mañana, al despertarse, se encuentra con que sus hijos han hecho un descubrimiento escalofriante en los campos de maíz que rodean su granja.",
+    "imagen":"https://es.web.img2.acsta.net/pictures/14/03/11/11/07/349050.jpg"
+},
+{
+    "nombre":"Men in Black",
+    "anio":"1997",
+    "director":"Barry Sonnenfeld",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"Durante muchos años los extraterrestres han vivido en la Tierra, mezclados con los seres humanos, sin que nadie lo supiese. Los Hombres de Negro son agentes especiales que forman parte de una unidad altamente secreta del gobierno; su misión consiste en controlar a los alienígenas. Dos de estos agentes (uno veterano y otro recién incorporado), cuya misión consiste en vigilar a los alienígenas que viven en Nueva York, descubren a un terrorista galáctico que pretende acabar con la Humanidad.",
+    "imagen":"https://occ.a.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABWHIPNxBC1J9OLWkn6zq-NlOBryoTA6D1u02h5ZaK00E4R0DQs7QDtbBCp_6_I_CKr4A7pEJ8-K8Rt2XfOP0QLdsEY7R53yqgbji.jpg?r=4e3"
+},
+{
+    "nombre":"Independence Day",
+    "anio":"1996",
+    "director":"Roland Emmerich",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"En víspera del 4 de julio, unas gigantescas naves espaciales aparecen en el cielo. El estupor inicial se convierte en terror al ver cómo atacan el planeta lanzando rayos destructivos contra las mayores ciudades del mundo. La única esperanza de salvación está en manos de algunos supervivientes, que se unen planeando un ataque masivo contra los alienígenas, antes de que sea demasiado tarde.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "nombre":"Godzilla",
+    "anio":"1998",
+    "director":"Roland Emmerich",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"Las pruebas nucleares realizadas por los franceses en el Pacífico provocan la aparición en el océano de un gigantesco reptil mutante, que ha sido localizado tras atacar un barco de pesca japonés. Pero lo peor es que el monstruo es anfibio y saldrá del océano para dirigirse a Nueva York, en cuyas calles causará el pánico.",
+    "imagen":"https://i0.wp.com/manapop.com/wp-content/uploads/2020/02/Godzilla-header-pic.jpg?ssl=1"
+},
+{
+    "nombre":"2012",
+    "anio":"2009",
+    "director":"Roland Emmerich",
+    "genero":"Accion",
+    "sinopsis":"En el calendario de los mayas aparece señalado el año 2012 como la fecha en la que se producirá el fin del mundo, que irá acompañado de diversas catástrofes naturales: erupciones volcánicas, tifones, glaciares que inundarán el planeta. Cuando el escritor Jackson Curtis (John Cusack) y sus hijos regresan a casa, una intensa actividad sísmica recorre la Costa Oeste de los Estados Unidos.",
+    "imagen":"https://pics.filmaffinity.com/2012-144722286-large.jpg"
+},
+{
+    "nombre":"I Am Legend",
+    "anio":"2007",
+    "director":"Francis Lawrence",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"Año 2012. Robert Neville (Will Smith) es el último hombre vivo que hay sobre la Tierra, pero no está solo. Los demás seres humanos se han convertido en vampiros y todos ansían beber su sangre. Durante el día vive en estado de alerta, como un cazador, y busca a los muertos vivientes mientras duermen; pero durante la noche debe esconderse de ellos y esperar el amanecer. Esta pesadilla empezó hace tres años: Neville era un brillante científico, pero no pudo impedir la expansión de un terrible virus creado por el hombre. Él ha sobrevivido porque es inmune al virus; todos los días envía mensajes por radio con la esperanza de que haya otros supervivientes, pero es inútil. Lo único que puede hacer es buscar una fórmula que le permita utilizar su sangre inmune para devolverles a los hombres su naturaleza. Pero está en inferioridad de condiciones y el tiempo se acaba.",
+    "imagen":"https://flxt.tmsimg.com/assets/p170977_p_v7_ae.jpg"
+},
+{
+    "nombre":"Dumb and Dumber",
+    "anio":"1994",
+    "director":"Peter Farrelly",
+    "genero":"Humor",
+    "sinopsis":"La vida de Lloyd y Harry, dos amigos de una estupidez supina, es un auténtico desastre. El primero trabaja como chófer de una limousina, y el segundo se dedica a transportar perros. Cuando Lloyd se enamora de una chica de buena posición, que deja olvidado un maletín en el coche, los dos amigos emprenden un viaje por todo el país para devolvérselo.",
+    "imagen":"https://flxt.tmsimg.com/assets/p16298_p_v8_ae.jpg"
+},
+{
+    "nombre":"Me,Myself & Irene",
+    "anio":"2000",
+    "director":"Peter Farrelly",
+    "genero":"Humor",
+    "sinopsis":"Charlie es un inocente y amable policía de Rhode Island que es todo un caballero, además de un abnegado padre soltero de tres hijos de color que su esposa tuvo tras una aventura. Pero un día Charlie, conocido por su buen carácter, no soporta más que le tomen por blando y sufre de repente un trastorno de personalidad, convirtiéndose en alguien completamente distinto, en el que sale a relucir su hiperagresivo álter ego.",
+    "imagen":"https://flxt.tmsimg.com/assets/p25564_p_v8_ad.jpg"
+},
+{
+    "nombre":"Green Book",
+    "anio":"2018",
+    "director":"Peter Farrelly",
+    "genero":"Drama",
+    "sinopsis":"Año 1962. Tony Lip (Viggo Mortensen) es un rudo italoamericano del Bronx que es contratado como chófer del virtuoso pianista negro Don Shirley (Mahershala Ali). Ambos emprenderán un viaje para una gira de conciertos por el Sur de Estados Unidos, donde Tony deberá tener presente "El libro verde", una guía que indicaba los pocos establecimientos donde se aceptaba a los afroamericanos. Son dos personas que tendrán que hacer frente al racismo y los prejuicios, pero a las que el destino unirá, obligándoles a dejar de lado las diferencias para sobrevivir y prosperar en el viaje de sus vidas.",
+    "imagen":"https://phantom-marca.unidadeditorial.es/912fc8b4c9d973bc88e1336eb7e9b31a/resize/1320/f/jpg/assets/multimedia/imagenes/2020/12/07/16073650714138.jpg"
+},
+{
+    "nombre":"American Psycho",
+    "anio":"2000",
+    "director":"Mary Harron",
+    "genero":"Drama",
+    "sinopsis":"En un mundo moralmente plano en el que la ropa tiene más sentido que la piel, Patrick Bateman es un espécimen soberbiamente elaborado que cumple todos los requisitos de Master del Universo, desde el diseño de su vestuario hasta el de sus productos químicos. Es prácticamente perfecto, como casi todos en su mundo e intenta desesperadamente encajar en él. Cuando más intenta ser como cualquier otro hombre adinerado de Wall Street, más anónimo se vuelve y menos control tiene sobre sus terribles instintos y su insaciable sed de sangre, que lo arrastra a una vorágine en la que los objetos valen más que el cuerpo y el alma de una persona.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
 }
 ]
