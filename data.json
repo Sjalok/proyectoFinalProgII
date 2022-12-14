@@ -2,7 +2,7 @@
     "nombre":"Esperando la carroza",
     "anio":"1985",
     "director": "Alejandro Doria",
-    "genero": "Humor",
+    "genero": "Comedia",
     "sinopsis": "Mama Cora se acerca a los 80 años y vive con el más pobre de sus hijos. La familia decide reunirse para hablar sobre quien será el próximo en cuidar la madre y todo el mundo intenta esquivar la responsabilidad. Las discusiones se terminan cuando reciben la noticia que Mama Cora se ha suicidado. Ahora todo serán lamentaciones. Comedia argentina de gran éxito en el país, se basa en la divertida obra de teatro homónima del uruguayo Jacobo Langsner. Fue tanta la expectación que despertó en su estreno, que ha sido considerada un clásico del cine argentino e, incluso, los crítico la han clasificado como una de las mejores cintas cómicas de la historia de Argentina.",
     "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm512185.html&psig=AOvVaw3I0_f00HIAxGVvlmr-LWlh&ust=1670983001132000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDXmO--9fsCFQAAAAAdAAAAABAE"
 },
@@ -314,7 +314,7 @@
     "nombre":"Dumb and Dumber",
     "anio":"1994",
     "director":"Peter Farrelly",
-    "genero":"Humor",
+    "genero":"Comedia",
     "sinopsis":"La vida de Lloyd y Harry, dos amigos de una estupidez supina, es un auténtico desastre. El primero trabaja como chófer de una limousina, y el segundo se dedica a transportar perros. Cuando Lloyd se enamora de una chica de buena posición, que deja olvidado un maletín en el coche, los dos amigos emprenden un viaje por todo el país para devolvérselo.",
     "imagen":"https://flxt.tmsimg.com/assets/p16298_p_v8_ae.jpg"
 },
@@ -322,7 +322,7 @@
     "nombre":"Me,Myself & Irene",
     "anio":"2000",
     "director":"Peter Farrelly",
-    "genero":"Humor",
+    "genero":"Comedia",
     "sinopsis":"Charlie es un inocente y amable policía de Rhode Island que es todo un caballero, además de un abnegado padre soltero de tres hijos de color que su esposa tuvo tras una aventura. Pero un día Charlie, conocido por su buen carácter, no soporta más que le tomen por blando y sufre de repente un trastorno de personalidad, convirtiéndose en alguien completamente distinto, en el que sale a relucir su hiperagresivo álter ego.",
     "imagen":"https://flxt.tmsimg.com/assets/p25564_p_v8_ad.jpg"
 },
@@ -331,7 +331,7 @@
     "anio":"2018",
     "director":"Peter Farrelly",
     "genero":"Drama",
-    "sinopsis":"Año 1962. Tony Lip (Viggo Mortensen) es un rudo italoamericano del Bronx que es contratado como chófer del virtuoso pianista negro Don Shirley (Mahershala Ali). Ambos emprenderán un viaje para una gira de conciertos por el Sur de Estados Unidos, donde Tony deberá tener presente "El libro verde", una guía que indicaba los pocos establecimientos donde se aceptaba a los afroamericanos. Son dos personas que tendrán que hacer frente al racismo y los prejuicios, pero a las que el destino unirá, obligándoles a dejar de lado las diferencias para sobrevivir y prosperar en el viaje de sus vidas.",
+    "sinopsis":"Año 1962. Tony Lip (Viggo Mortensen) es un rudo italoamericano del Bronx que es contratado como chófer del virtuoso pianista negro Don Shirley (Mahershala Ali). Ambos emprenderán un viaje para una gira de conciertos por el Sur de Estados Unidos, donde Tony deberá tener presente El libro verde, una guía que indicaba los pocos establecimientos donde se aceptaba a los afroamericanos. Son dos personas que tendrán que hacer frente al racismo y los prejuicios, pero a las que el destino unirá, obligándoles a dejar de lado las diferencias para sobrevivir y prosperar en el viaje de sus vidas.",
     "imagen":"https://phantom-marca.unidadeditorial.es/912fc8b4c9d973bc88e1336eb7e9b31a/resize/1320/f/jpg/assets/multimedia/imagenes/2020/12/07/16073650714138.jpg"
 },
 {
@@ -341,5 +341,501 @@
     "genero":"Drama",
     "sinopsis":"En un mundo moralmente plano en el que la ropa tiene más sentido que la piel, Patrick Bateman es un espécimen soberbiamente elaborado que cumple todos los requisitos de Master del Universo, desde el diseño de su vestuario hasta el de sus productos químicos. Es prácticamente perfecto, como casi todos en su mundo e intenta desesperadamente encajar en él. Cuando más intenta ser como cualquier otro hombre adinerado de Wall Street, más anónimo se vuelve y menos control tiene sobre sus terribles instintos y su insaciable sed de sangre, que lo arrastra a una vorágine en la que los objetos valen más que el cuerpo y el alma de una persona.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
-}
+},
+{
+    "nombre":"Se7en",
+    "anio":"1995",
+    "director":"David Fincher",
+    "genero":"Thriller",
+    "sinopsis":"El veterano teniente Somerset (Morgan Freeman), del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso e impulsivo detective David Mills (Brad Pitt). Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BZDgyZmY5MmItY2I3Ny00NjA4LWFhNmItMGQ4ZGJhZDk5YjU3XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg"
+},
+{
+    "nombre":"Fight Club",
+    "anio":"1999",
+    "director":"David Fincher",
+    "genero":"Drama",
+    "sinopsis":"Un joven hastiado de su gris y monótona vida lucha contra el insomnio. En un viaje en avión conoce a un carismático vendedor de jabón que sostiene una teoría muy particular: el perfeccionismo es cosa de gentes débiles; sólo la autodestrucción hace que la vida merezca la pena. Ambos deciden entonces fundar un club secreto de lucha, donde poder descargar sus frustaciones y su ira, que tendrá un éxito arrollador.",
+    "imagen":"https://flxt.tmsimg.com/assets/p23069_p_v8_aa.jpg"
+},
+{
+    "nombre":"The curious case of Benjamin Button",
+    "anio":"2008",
+    "director":"David Fincher",
+    "genero":"Drama",
+    "sinopsis":"Un hombre (Brad Pitt) nace con ochenta años y va rejuveneciendo a medida que pasa el tiempo; es decir, en lugar de cumplir años los descumple. Esta es la historia de un hombre extraordinario, de la gente que va conociendo, de sus amores y amistades, pero sobre todo de su relación con Daisy (Cate Blanchett), la mujer de su vida.",
+    "imagen":"https://flxt.tmsimg.com/assets/p170920_p_v8_am.jpg"
+},
+{
+    "nombre":"American Beauty",
+    "anio":"1999",
+    "director":"Sam Mendes",
+    "genero":"Drama",
+    "sinopsis":"Lester Burnham (Kevin Spacey), un cuarentón en crisis, cansado de su trabajo y de su mujer Carolyn (Annette Bening), despierta de su letargo cuando conoce a la atractiva amiga (Mena Suvari) de su hija (Thora Birch), a la que intentará impresionar a toda costa.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nombre":"1917",
+    "anio":"2019",
+    "director":"Sam Mendes",
+    "genero":"Belica",
+    "sinopsis":"En lo más crudo de la Primera Guerra Mundial, dos jóvenes soldados británicos, Schofield (George MacKay) y Blake (Dean-Charles Chapman) reciben una misión aparentemente imposible. En una carrera contrarreloj, deberán atravesar el territorio enemigo para entregar un mensaje que evitará un mortífero ataque contra cientos de soldados, entre ellos el propio hermano de Blake.",
+    "imagen":"https://pics.filmaffinity.com/1917-782426285-large.jpg"
+},
+{
+    "nombre":"The Naked Gun: From the Files of Police Squad!",
+    "anio":"1988",
+    "director":"David Zucker",
+    "genero":"Comedia",
+    "sinopsis":"Tras quedar gravemente herido su compañero Nordberg en un tiroteo protagonizado por una banda de narcotraficantes, el incompetente teniente Frank Drebin busca al jefe de la organización para vengarse. Sospecha del magnate naviero Vincent Ludwig, pero no tiene pruebas para inculparlo. Sin embargo, de manera inesperada, consigue la ayuda de Jane Spencer, una antigua novia de Ludwig.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BODk1ZWM4ZjItMjFhZi00MDMxLTgxNmYtODFhNWZlZTkwM2UwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "nombre":"Airplane!",
+    "anio":"1980",
+    "director":"David Zucker",
+    "genero":"Comedia",
+    "sinopsis":"El vuelo 209 de la Trans American sale de Los Ángeles con destino a Chicago. Entre el pasaje se encuentran una serie de curiosos personajes. Entre ellos, un ex-piloto de combate que, en pleno vuelo, se verá obligado a hacerse con el mando del avión comercial, tras quedar los pilotos indispuestos por una comida en mal estado.",
+    "imagen":"https://flxt.tmsimg.com/assets/p1671_p_v8_ae.jpg"
+},
+{
+    "nombre":"Scary Movie",
+    "anio":"2000",
+    "director":"Keenen Ivory Wayans",
+    "genero":"Comedia",
+    "sinopsis":"Una bella estudiante muere asesinada. Un grupo de desorientados adolescentes descubre que entre ellos hay un asesino. La heroína Cyndi Campbell y su grupo de despistados amigos se verán aterrorizados por un singular psicópata enmascarado que pretende vengarse de ellos, después de que lo atropellaran por accidente el pasado Halloween.",
+    "imagen":"https://i.ytimg.com/vi/HTLPULt0eJ4/maxresdefault.jpg"
+},
+{
+    "nombre":"The Lord of the Rings: The Fellowship of the Ring",
+    "anio":"2001",
+    "director":"Peter Jackson",
+    "genero":"Aventuras",
+    "sinopsis":"En la Tierra Media, el Señor Oscuro Sauron ordenó a los Elfos que forjaran los Grandes Anillos de Poder. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Pero Saurón también forjó, en secreto, el Anillo Único, que tiene el poder de esclavizar toda la Tierra Media. Con la ayuda de sus amigos y de valientes aliados, el joven hobbit Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el malvado Sauron ordena la persecución del grupo, compuesto por Frodo y sus leales amigos hobbits, un mago, un hombre, un elfo y un enano. La misión es casi suicida pero necesaria, pues si Sauron con su ejército de orcos lograra recuperar el Anillo, sería el final de la Tierra Media.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nombre":"Home Alone",
+    "anio":"1990",
+    "director":"Chris Columbus",
+    "genero":"Comedia",
+    "sinopsis":"Kevin McAllister es un niño de ocho años, miembro de una familia numerosa, que accidentalmente se queda abandonado en su casa cuando toda la familia se marcha a pasar las vacaciones a Francia. Kevin aprende a valerse por sí mismo e incluso a protegerse de Harry y Marv, dos bribones que se proponen asaltar todas las casas cerradas de su vecindario. En cuanto su madre lo echa en falta, regresa apresuradamente a Chicago para recuperar a su hijo.",
+    "imagen":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B9CACD4D5F953ABACEC2E6B19F1959C633150655E91BFD7D320CD9464B915E39/scale?width=1200&aspectRatio=1.78&format=jpeg"
+},
+{
+    "nombre":"Bicentennial Man",
+    "anio":"1999",
+    "director":"Chris Columbus",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"En la primera década del nuevo milenio, con avances tecnológicos que engullen la soberanía de la compasión humana, Richard Martin (Sam Neill) compra un regalo, un nuevo robot NDR-114. El hijo más pequeño de la familia le pone de nombre Andrew (Robin Williams). Andrew es adquirido como electrodoméstico casero programado para realizar tareas menores. A medida que Andrew empieza a experimentar emociones y pensamiento creativo, la familia Martin descubre pronto que no tienen un robot común y corriente.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BYTU4Nzg5YmItNzE0Yy00Y2VmLWI3OTYtNTFjODEzMDE0YTI4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "nombre":"Harry Potter and the Philosopher's Stone",
+    "anio":"2000",
+    "director":"Chris Columbus",
+    "genero":"Fantastico",
+    "sinopsis":"El día en que cumple once años, Harry Potter se entera de que es hijo de dos destacados hechiceros, de los que ha heredado poderes mágicos. En la escuela Hogwarts de Magia y Hechicería, donde se educa con otros niños que también tienen poderes especiales, aprenderá todo lo necesario para ser mago.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg"
+},
+{
+    "nombre":"Austin Powers: International Man of Mystery",
+    "anio":"1997",
+    "director":"Jay Roach",
+    "genero":"Comedia",
+    "sinopsis":"Primera aventura de Austin Powers (Mike Myers), un peculiar y atractivo espía de los años sesenta, cuyo principal enemigo es el doctor Maligno (interpretado también por Myers). Tras ser ambos sometidos a un proceso de congelación, se despiertan treinta años después en una sociedad completamente distinta a la que conocían. Sin embargo, ellos siguen siendo los mismos.",
+    "imagen":"https://musicart.xboxlive.com/7/77701100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"
+},
+{
+    "nombre":"Shrek",
+    "anio":"2001",
+    "director":"Andrew Adamson",
+    "genero":"Animacion",
+    "sinopsis":"Hace mucho tiempo, en una lejanísima ciénaga, vivía un feroz ogro llamado Shrek. De repente, un día, su soledad se ve interrumpida por una invasión de sorprendentes personajes. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros seres que han sido deportados de su tierra por el malvado Lord Farquaad. Para salvar su territorio, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la bella princesa Fiona acceda a ser la novia del Lord. En tan importante misión le acompaña un divertido burro, dispuesto a hacer cualquier cosa por Shrek: todo, menos guardar silencio.",
+    "imagen":"https://static.wikia.nocookie.net/doblaje/images/6/69/Shrekban.png/revision/latest?cb=20200731225428&path-prefix=es"
+},
+{
+    "nombre":"Wayne's World",
+    "anio":"1992",
+    "director":"Penelope Spheeris",
+    "genero":"Comedia",
+    "sinopsis":"Cuando un importante ejecutivo de la televisión ofrece a los alocados y poco convencionales Wayne y a Garth un jugoso contrato para hacer en su cadena su peculiar show nocturno, ambos no pueden dar crédito a su suerte. Pero el camino hacia el éxito es muy tortuoso, está lleno de peligros, tentaciones y fiestas salvajes. ¿Podrá Wayne ganar el cariño de la diosa del rock Cassandra? ¿Será Garth capaz de “mojar” con la chica de sus sueños en la tienda de donuts?",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BMDAyNDY3MjUtYmJjYS00Zjc5LTlhM2MtNzgzYjNlOWVkZjkzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "nombre":"Tenacious D: The Pick of Destiny",
+    "anio":"2006",
+    "director":"Liam Lynch",
+    "genero":"Comedia",
+    "sinopsis":"En 1994, tuvieron lugar en Los Ángeles dos acontecimientos que sacudieron la tierra: el terremoto de Northridge y el nacimiento de Tenacious D, la banda liderada por Jack Black y Kyle Gass. Los dos se conocieron cuando eran miembros de la Actor’s Gang, una compañía de teatro de Los Ángeles fundada por Tim Robbins, y allí fue donde descubrieron su amor por el rock & roll. Desde su primera actuación en el Al’s Bar de Los Ángeles, donde interpretaron su única canción, Tribute, hasta su revelación como la Mejor Banda de la Tierra, The D, han entusiasmado a todo el que ha podido escucharlos.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BMTUyMDA3OTc4MV5BMl5BanBnXkFtZTcwNzE5NjkzMQ@@._V1_.jpg"
+},
+{
+    "nombre":"School of rock",
+    "anio":"2003",
+    "director":"Richard Linklater",
+    "genero":"Comedia",
+    "sinopsis":"Dewey Finn (Jack Black), un guitarrista con delirios de grandeza, es expulsado de su banda. La falta de recursos económicos lo obliga a buscar trabajo, cosa nada fácil, por lo que, finalmente, decide suplantar a un profesor sustituto en una escuela privada. A los alumnos de 5º grado intentará enseñarles el rock & roll de alto voltaje. Además, entre los niños está Yuki, un guitarrista prodigio de nueve años que puede ayudarle a ganar la competición de bandas de música y, de paso, solucionar sus problemas económicos.",
+    "imagen":"https://api.time.com/wp-content/uploads/2014/08/the-school-of-rock_a89fdaf8.jpg"
+},
+{
+    "nombre":"Flashdance",
+    "anio":"1983",
+    "director":"Adrian Lyne",
+    "genero":"Drama",
+    "sinopsis":"Alex Owens es una joven huérfana que sueña con llegar a ser un día una bailarina profesional. Pero para poder vivir el día a día y, además, pagar sus clases de baile, durante el día trabaja como soldadora en una fábrica y de noche bailando en un club nocturno.",
+    "imagen":"https://flxt.tmsimg.com/assets/p6845_p_v8_au.jpg"
+},
+{
+    "nombre":"Jacob's Ladder",
+    "anio":"1990",
+    "director":"Adrian Lyne",
+    "genero":"Drama",
+    "sinopsis":"Narra las secuelas que sufre un soldado que participó en la guerra de Vietnam. El cartero neoyorkino Jacob Singer intenta evitar que los jirones de su vida terminen de deshilacharse. Lo acosan incesantes flashbacks de su primer matrimonio, de su hijo muerto y de su periodo de servicio en Vietnam. En su nueva esposa busca un asidero hacia la lucidez, pero la línea entre la realidad y el delirio se hace cada vez más delgada.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BZTg5MTMyNjktNTZhOC00MGFlLWFlMTMtZGU2MjE3OWQ3NjJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nombre":"Up",
+    "anio":"2009",
+    "director":"Pete Docter",
+    "genero":"Animacion",
+    "sinopsis":"Carl Fredricksen es un viudo vendedor de globos de 78 años que, finalmente, consigue llevar a cabo el sueño de su vida: enganchar miles de globos a su casa y salir volando rumbo a América del Sur. Pero ya estando en el aire y sin posibilidad de retornar Carl descubre que viaja acompañado de Russell, un explorador que tiene ocho años y un optimismo a prueba de bomba.",
+    "imagen":"https://lumiere-a.akamaihd.net/v1/images/p_up_19753_e6f911e3.jpeg?region=0%2C0%2C540%2C810"
+},
+{
+    "nombre":"Soul",
+    "anio":"2020",
+    "director":"Pete Docter",
+    "genero":"Animacion",
+    "sinopsis":"¿Alguna vez te has preguntado de dónde provienen tu pasión, tus sueños y tus intereses? ¿Qué es lo que te hace ser... tú? Pixar te lleva en un viaje desde las calles de Nueva York a los reinos cósmicos para descubrir las respuestas a las preguntas más importantes de la vida.",
+    "imagen":"https://lumiere-a.akamaihd.net/v1/images/p_soul_disneyplus_v2_20907_764da65d.jpeg"
+},
+{
+    "nombre":"The Incredibles",
+    "anio":"2004",
+    "director":"Brad Bird",
+    "genero":"Animacion",
+    "sinopsis":"Bob Parr era uno de los más grandes superhéroes del mundo (también se le conocía como Mr. Increíble), salvaba vidas y luchaba contra villanos a diario. Han pasado 15 años, y Bob y su mujer (una famosa ex-superheroína por derecho propio) han adoptado una identidad civil y se han retirado a la periferia para llevar una vida normal con sus tres hijos. Bob se dedica a comprobar los plazos de las reclamaciones de seguros y lucha contra el aburrimiento y los michelines. Está deseando volver a entrar en acción, así que cuando recibe una misteriosa comunicación que le ordena dirigirse a una remota isla para cumplir una misión de alto secreto, no se lo piensa dos veces.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_.jpg"
+},
+{
+    "nombre":"Cocoon",
+    "anio":"1985",
+    "director":"Ron Howard",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"Un grupo de ancianos que viven en una residencia descubren la fuente de la eterna juventud. El único problema es que el lugar mágico pertenece a un grupo de extraterrestres, y desconocen si sus intenciones son amigables. Un espléndido reparto y acertadas dosis de sentimentalismo hicieron de este drama fantástico un gran éxito de taquilla.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BYzFiMWRiZTItMjViNy00ZjUzLTg1MTMtNTU4OGRlNzA2MTc2L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "nombre":"The Da Vinci Code",
+    "anio":"2006",
+    "director":"Ron Howard",
+    "genero":"Thriller",
+    "sinopsis":"El catedrático y afamado simbologista Robert Langdon (Tom Hanks) se ve obligado a acudir una noche al Museo del Louvre, cuando el asesinato de un restaurador deja tras de sí un misterioso rastro de símbolos y pistas. Con la ayuda de la criptógrafa de la policía Sophie Neveu (Audrey Tautou) y poniendo en juego su propia vida, Langdon descubre que la obra de Leonardo Da Vinci esconde una serie de misterios que apuntan a una sociedad secreta encargada de custodiar un antiguo secreto que ha permanecido oculto durante dos mil años.",
+    "imagen":"https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/230784_DA%20VINCI%20CODE_1400x2100_Eng.jpg?itok=RRnkgHqP"
+},
+{
+    "nombre":"Good morning, Vietnam",
+    "anio":"1987",
+    "director":"Barry Levinson",
+    "genero":"Belica",
+    "sinopsis":"Vietnam. 1965. Un militar pinchadiscos de la radio, Adrian Cronauer, es enviado a Saigón para trabajar en la emisora del ejército norteamericano. En contraste con sus aburridos antecesores, Cronauer es pura dinamita: sus comentarios irreverentes, tacos, improperios y sus críticas al vicepresidente le hacen ganarse el aprecio de las tropas. Sin embargo, su superior, el teniente Hauk, no es de la misma opinión.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BOWRhZGQ5ODQtMzUzNi00M2I4LThmZmUtYmQ0NDQzMTkxMWQ0XkEyXkFqcGdeQXVyMzI0NDc4ODY@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nombre":"Dead Poets Society",
+    "anio":"1989",
+    "director":"Peter Weir",
+    "genero":"Drama",
+    "sinopsis":"En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado del carpe diem -aprovechar el momento- y la importancia vital de luchar por alcanzar los sueños, gracias al Sr. Keating, un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "nombre":"The Truman Show",
+    "anio":"1998",
+    "director":"Peter Weir",
+    "genero":"Comedia",
+    "sinopsis":"Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, de repente, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo. Todos sus amigos son actores, toda su ciudad es un plató, toda su vida está siendo filmada y emitida como el reality más ambicioso de la historia. ",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg"
+},
+{
+    "nombre":"Jumanji",
+    "anio":"1995",
+    "director":"Joe Johnston",
+    "genero":"Fantastico",
+    "sinopsis":"Alan Parris queda atrapado durante 25 años en un juego de mesa mágico y muy antiguo llamado Jumanji. Cuando, por fin, es liberado por dos niños, una manada de animales exóticos queda también en libertad.",
+    "imagen":"https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/Jumanji_onesheet_rating_1.jpg?itok=Y0PEK8IA"
+},
+{
+    "nombre":"Patch Adams",
+    "anio":"1998",
+    "director":"Tom Shadyac",
+    "genero":"Comedia",
+    "sinopsis":"Basada en una historia real, la película es la biografía del médico Patch Adams (Robin Williams), que revolucionó a la comunidad médica oficial aplicando singulares terapias consistentes en hacer reír y proporcionar afecto a los pacientes enfermos de cáncer.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BNzM4Y2FlNzYtZmY5Yy00NzU4LTk1ODItY2NjYWYzYzUyZGM3L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "nombre":"Eternal Sunshine of the Spotless Mind",
+    "anio":"2004",
+    "director":"Michel Gondry",
+    "genero":"Drama",
+    "sinopsis":"Joel (Jim Carrey) recibe un terrible golpe cuando descubre que su novia Clementine (Kate Winslet) ha hecho que borren de su memoria todos los recuerdos de su tormentosa relación. Desesperado, se pone en contacto con el creador del proceso, el Dr. Howard Mierzwiak, para que borre a Clementine de su memoria. Pero cuando los recuerdos de Joel empiezan a desaparecer de pronto redescubre su amor por Clementine. Desde lo más profundo de su cerebro intentará parar el proceso.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg"
+},
+{
+    "nombre":"Rambo: First Blood",
+    "anio":"1982",
+    "director":"Ted Kotcheff",
+    "genero":"Accion",
+    "sinopsis":"Cuando John Rambo, un veterano boina verde, va a visitar a un viejo compañero de armas, se entera de que ha muerto víctima de las secuelas de la guerra. Algunos días después, la policía lo detiene por vagabundo y se ensaña con él. Entonces recuerda las torturas que sufrió en Vietnam y reacciona violentamente.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BODBmOWU2YWMtZGUzZi00YzRhLWJjNDAtYTUwNWVkNDcyZmU5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg"
+},
+{
+    "nombre":"Rocky",
+    "anio":"1976",
+    "director":"John Avildsen",
+    "genero":"Drama",
+    "sinopsis":"Rocky Balboa es un desconocido boxeador a quien se le ofrece la posibilidad de pelear por el título mundial de los pesos pesados. Con una gran fuerza de voluntad, Rocky se prepara concienzudamente para el combate y también para los cambios que acabarán produciéndose en su vida.",
+    "imagen":"https://es.web.img3.acsta.net/pictures/14/05/12/10/11/064918.jpg"
+},
+{
+    "nombre":"Gran Torino",
+    "anio":"2008",
+    "director":"Clint Eastwood",
+    "genero":"Drama",
+    "sinopsis":"Walt Kowalski (Clint Eastwood), un veterano de la guerra de Corea (1950-1953), es un obrero jubilado del sector del automóvil que ha enviudado recientemente. Su máxima pasión es cuidar de su más preciado tesoro: un coche Gran Torino de 1972. Es un hombre inflexible y cascarrabias, al que le cuesta trabajo asimilar los cambios que se producen a su alrededor, especialmente la llegada de multitud de inmigrantes asiáticos a su barrio. Sin embargo, las circustancias harán que se vea obligado a replantearse sus ideas.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nombre":"Alien",
+    "anio":"1979",
+    "director":"Ridley Scott",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"De regreso a la Tierra, la nave de carga Nostromo interrumpe su viaje y despierta a sus siete tripulantes. El ordenador central, MADRE, ha detectado la misteriosa transmisión de una forma de vida desconocida, procedente de un planeta cercano aparentemente deshabitado. La nave se dirige entonces al extraño planeta para investigar el origen de la comunicación.",
+    "imagen":"https://flxt.tmsimg.com/assets/p2571_p_v8_al.jpg"
+},
+{
+    "nombre":"Gladiator",
+    "anio":"2000",
+    "director":"Ridley Scott",
+    "genero":"Accion",
+    "sinopsis":"En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio (Richard Harris) decide transferir el poder a Máximo (Russell Crowe), bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo (Joaquin Phoenix), que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "nombre":"American Gangster",
+    "anio":"2007",
+    "director":"Ridley Scott",
+    "genero":"Thriller",
+    "sinopsis":"Nueva York, 1968. Frank Lucas (Denzel Washington) es el taciturno chófer de un importante mafioso negro de Harlem. Cuando su jefe muere inesperadamente, Frank aprovecha la oportunidad para construir su propio imperio. Gracias a su talento, se convierte no sólo en el principal narcotraficante de la ciudad, inundando las calles con productos de mejor calidad y precio, sino también en un hombre público muy respetado. Richie Roberts (Russell Crowe), un policía incorruptible marginado por su honradez que conoce bien las calles, se da cuenta de que una persona ajena a los clanes trepa por la escalera del poder. Tanto Roberts como Lucas comparten un estricto código ético que les aparta de los demás y los convierte en dos figuras solitarias en lados opuestos de la ley. Cuando se encuentren, el enfrentamiento entre ellos será inevitable",
+    "imagen":"https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/11/w1280/pn4A89Rdv0fI7KuugdhSbgfJZs7.jpg"
+},
+{
+    "nombre":"Predator",
+    "anio":"1987",
+    "director":"John McTiernan",
+    "genero":"Accion",
+    "sinopsis":"Un grupo de mercenarios es contratado por la CIA para rescatar a unos pilotos que han sido apresados por la guerrilla en la selva centroamericana. La misión es un éxito, pero durante el viaje de regreso se dan cuenta de que algo misterioso e invisible está dándoles caza uno a uno. Ese algo resulta ser un cazador alienígena que se queda con las calaveras de sus víctimas como trofeos.",
+    "imagen":"https://m.media-amazon.com/images/I/51H4TX6K8DL._AC_SY580_.jpg"
+},
+{
+    "nombre":"The Terminator",
+    "anio":"1984",
+    "director":"James Cameron",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"Los Ángeles, año 2029. Las máquinas dominan el mundo. Los rebeldes que luchan contra ellas tienen como líder a John Connor, un hombre que nació en los años ochenta. Para acabar con la rebelión, las máquinas deciden enviar al pasado a un robot -Terminator- cuya misión será eliminar a Sarah Connor, la madre de John, e impedir así su nacimiento.",
+    "imagen":"https://i.ytimg.com/vi/5mhjMS_cO0c/maxresdefault.jpg"
+},
+{
+    "nombre":"Avatar",
+    "anio":"2009",
+    "director":"James Cameron",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"Año 2154. Jake Sully (Sam Worthington), un ex-marine condenado a vivir en una silla de ruedas, sigue siendo, a pesar de ello, un auténtico guerrero. Precisamente por ello ha sido designado para ir a Pandora, donde algunas empresas están extrayendo un mineral extraño que podría resolver la crisis energética de la Tierra. Para contrarrestar la toxicidad de la atmósfera de Pandora, se ha creado el programa Avatar, gracias al cual los seres humanos mantienen sus conciencias unidas a un avatar: un cuerpo biológico controlado de forma remota que puede sobrevivir en el aire letal. Esos cuerpos han sido creados con ADN humano, mezclado con ADN de los nativos de Pandora, los Na'vi. Convertido en avatar, Jake puede caminar otra vez. Su misión consiste en infiltrarse entre los Na'vi, que se han convertido en el mayor obstáculo para la extracción del mineral. Pero cuando Neytiri, una bella Na'vi (Zoe Saldana), salva la vida de Jake, todo cambia: Jake, tras superar ciertas pruebas, es admitido en su clan. Mientras tanto, los hombres esperan los resultados de la misión de Jake.",
+    "imagen":"https://lumiere-a.akamaihd.net/v1/images/p_avatar_de27b20f.jpeg"
+},
+{
+    "nombre":"Taxi Driver",
+    "anio":"1976",
+    "director":"Martin Scorsese",
+    "genero":"Drama",
+    "sinopsis":"Para sobrellevar el insomnio crónico que sufre desde su regreso de Vietnam, Travis Bickle (Robert De Niro) trabaja como taxista nocturno en Nueva York. Es un hombre insociable que apenas tiene contacto con los demás, se pasa los días en el cine y vive prendado de Betsy (Cybill Shepherd), una atractiva rubia que trabaja como voluntaria en una campaña política. Pero lo que realmente obsesiona a Travis es comprobar cómo la violencia, la sordidez y la desolación dominan la ciudad. Y un día decide pasar a la acción.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "nombre":"Boogie Nights",
+    "anio":"1997",
+    "director":"Paul Thomas Anderson",
+    "genero":"Drama",
+    "sinopsis":"A finales de los 70, Jack Horner, un director de cine porno que considera su trabajo una forma de arte descubre a Eddie Adams, un joven ingenuo que desea triunfar y que tiene unas características físicas muy adecuadas para ese tipo de cine. Eddie cambia su nombre por el de Dirk Diggler, se adapta inmediatamente a nuevo estilo de vida y pronto se convierte en una gran estrella del porno.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BY2E2YWYxY2QtZmJmZi00MjJlLWFiYWItZTk5Y2IyMWQ1ZThhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "nombre":"Magnolia",
+    "anio":"1999",
+    "director":"Paul Thomas Anderson",
+    "genero":"Drama",
+    "sinopsis":"La película consta de nueve tramas paralelas ambientadas en el Valle de San Fernando, en Los Ángeles: un niño prodigio, el presentador de un concurso de televisión, un ex-niño prodigio, un moribundo, su hijo perdido, la mujer y el enfermero del moribundo. Son historias aparentemente independientes, pero que guardan entre sí una extraña relación.",
+    "imagen":"https://images.moviesanywhere.com/dd1be13d610f86adf98b7d6e7a6f3a0b/1e7e739a-bb21-4f7c-badf-59b132ee123f.jpg"
+},
+{
+    "nombre":"Forrest Gump",
+    "anio":"1994",
+    "director":"Robert Zemeckis",
+    "genero":"Comedia",
+    "sinopsis":"Forrest Gump (Tom Hanks) sufre desde pequeño un cierto retraso mental. A pesar de todo, gracias a su tenacidad y a su buen corazón será protagonista de acontecimientos cruciales de su país durante varias décadas. Mientras pasan por su vida multitud de cosas en su mente siempre está presente la bella Jenny (Robin Wright), su gran amor desde la infancia, que junto a su madre será la persona más importante en su vida.",
+    "imagen":"https://pics.filmaffinity.com/Forrest_Gump-598998346-large.jpg"
+},
+{
+    "nombre":"Cast Away",
+    "anio":"2000",
+    "director":"Robert Zemeckis",
+    "genero":"Aventuras",
+    "sinopsis":"Chuck Noland, un ejecutivo de la empresa multinacional de mensajería FedEx, se ve apartado de su cómoda vida y de su prometida a causa de un accidente de avión que lo deja aislado de la civilización en una remota isla tropical en medio del océano. Tras cuatro años de lucha por la supervivencia, completamente solo en la isla, Chuck aprende todas las técnicas de subsistencia mientras sufre la tortura de la soledad. La solución: arriesgar la vida adentrándose mar adentro.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BN2Y5ZTU4YjctMDRmMC00MTg4LWE1M2MtMjk4MzVmOTE4YjkzXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nombre":"Hereditary",
+    "anio":"2018",
+    "director":"Ari Aster",
+    "genero":"Terror",
+    "sinopsis":"Cosas extrañas comienzan a suceder en casa de los Graham tras la muerte de la abuela y matriarca, que deja en herencia su casa a su hija Annie. Annie Graham, una galerista casada y con dos hijos, no tuvo una infancia demasiado feliz junto a su madre, y cree que la muerte de ésta puede hacer que pase página. Pero todo se complica cuando su hija menor comienza a ver figuras fantasmales, que también empiezan a aparecer ante su hermano.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nombre":"Midsommar",
+    "anio":"2019",
+    "director":"Ari Aster",
+    "genero":"Terror",
+    "sinopsis":"Una pareja estadounidense que no está pasando por su mejor momento acude con unos amigos al Midsommar, un festival de verano que se celebra cada 90 años en una aldea remota de Suecia. Lo que comienza como unas vacaciones de ensueño en un lugar en el que el sol no se pone nunca, poco a poco se convierte en una oscura pesadilla cuando los misteriosos aldeanos les invitan a participar en sus perturbadoras actividades festivas.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_.jpg"
+},
+{
+    "nombre":"The Wolf of Wall Street",
+    "anio":"2013",
+    "director":"Martin Scorsese",
+    "genero":"Comedia",
+    "sinopsis":"Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort (Leonardo DiCaprio). A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de “El lobo de Wall Street”. Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg"
+},
+{
+    "nombre":"The Irishman",
+    "anio":"2019",
+    "director":"Martin Scorsese",
+    "genero":"Thriller",
+    "sinopsis":"Frank Sheeran fue un veterano de la Segunda Guerra Mundial, estafador y sicario que trabajó con algunas de las figuras más destacadas del siglo XX. 'El irlandés' es la crónica de uno de los grandes misterios sin resolver del país: la desaparición del legendario sindicalista Jimmy Hoffa. Un gran viaje por los turbios entresijos del crimen organizado; sus mecanismos internos, sus rivalidades y su conexión con la política. Adaptación del libro I Heard You Paint Houses, de Charles Brandt, a cargo del guionista Steven Zaillian (La lista de Schindler, American Gangster).",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg"
+},
+{
+    "nombre":"Apocalypse Now",
+    "anio":"1979",
+    "director":"Francis Ford Coppola",
+    "genero":"Thriller",
+    "sinopsis":"Durante la guerra de Vietnam, al joven Capitán Willard, un oficial de los servicios de inteligencia del ejército estadounidense, se le ha encomendado entrar en Camboya con la peligrosa misión de eliminar a Kurtz, un coronel renegado que se ha vuelto loco. El capitán deberá ir navegar por el río hasta el corazón de la selva, donde parece ser que Kurtz reina como un buda despótico sobre los miembros de la tribu Montagnard, que le adoran como a un dios.",
+    "imagen":"https://pics.filmaffinity.com/Apocalypse_Now-630974887-large.jpg"
+},
+{
+    "nombre":"The Departed",
+    "anio":"2006",
+    "director":"Martin Scorsese",
+    "genero":"Thriller",
+    "sinopsis":"El Departamento de Policía de Massachussets se enfrenta a la mayor banda de crimen organizado de la ciudad de Boston. La estrategia consiste en acabar desde dentro con Frank Costello, el poderoso jefe de la mafia irlandesa (Jack Nicholson). El encargado de infiltrarse en la banda es un joven novato, Billy Costigan (Leonardo DiCaprio). Mientras Billy intenta ganarse la confianza de Costello, otro joven policía, Colin Sullivan (Matt Damon), sube rápidamente de categoría y ocupa un puesto en la unidad de Investigaciones Especiales, grupo de élite cuya misión también es acabar con Costello. Lo que nadie sabe es que Colin es un topo infiltrado en la policía por el propio Costello.",
+    "imagen":"https://i.ebayimg.com/images/g/xZMAAOSwv5BghuO0/s-l500.jpg"
+},
+{
+    "nombre":"One Flew Over the Cuckoo's Nest",
+    "anio":"1975",
+    "director":"Milos Forman",
+    "genero":"Drama",
+    "sinopsis":"Randle McMurphy (Jack Nicholson), un hombre condenado por asalto, y un espíritu libre que vive contracorriente, es recluido en un hospital psiquiátrico. La inflexible disciplina del centro acentúa su contagiosa tendencia al desorden, que acabará desencadenando una guerra entre los pacientes y el personal de la clínica con la fría y severa enfermera Ratched (Louise Fletcher) a la cabeza. La suerte de cada paciente del pabellón está en juego.",
+    "imagen":"https://m.media-amazon.com/images/I/81a+dfKdgVL._AC_SL1500_.jpg"
+},
+{
+    "nombre":"Batman",
+    "anio":"1989",
+    "director":"Tim Burton",
+    "genero":"Fantastico",
+    "sinopsis":"Cinta basada en el cómic homónimo. La oscura y peligrosa ciudad de Gotham tan sólo se halla protegida por su corrupto cuerpo de policía. A pesar de los esfuerzos del fiscal del distrito Harvey Dent y el comisionado de policía Jim Gordon, la ciudad es cada vez más insegura hasta que aparece Batman, el Señor de la Noche. La reputada periodista Vicky Vale intentará descubrir el secreto que se oculta tras el hombre murciélago.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BOTgxMjIyZmMtOTNiMC00YjE3LWJlMWUtZDliZjViMGM3MjM4XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg"
+},
+{
+    "nombre":"Mars Attacks!",
+    "anio":"1996",
+    "director":"Tim Burton",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"Parodia de los filmes de ciencia ficción de los años 50. Unos platillos volantes procedentes de Marte sobrevuelan todas las capitales del mundo. La población, aterrada, espera conocer sus intenciones. Al presidente de los Estados Unidos, su asesor científico le asegura que serán absolutamente pacíficas. Sin embargo, sus asesores militares le aconsejan que aniquile a los marcianos antes de que sea demasiado tarde.",
+    "imagen":"https://flxt.tmsimg.com/assets/p18776_p_v8_ag.jpg"
+},
+{
+    "nombre":"Big Fish",
+    "anio":"2003",
+    "director":"Tim Burton",
+    "genero":"Drama",
+    "sinopsis":"William Bloom (Billy Crudup) no tiene muy buena relación con su padre (Albert Finney), pero tras enterarse de que padece una enfermedad terminal, regresa a su hogar para estar a su lado en sus últimos momentos. Una vez más, William se verá obligado a escucharlo mientras cuenta las interminables historias de su juventud. Pero, en esta ocasión, tratará de averiguar cosas que le permitan conocer mejor a su padre, aunque para ello tendrá que separar claramente realidad y fantasía, elementos que aparecen siempre mezclados en los relatos de su progenitor.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BZTNlNTQzMGEtYjU4Yi00MzEzLThmMTQtNmM0NzcxZWI1MTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+},
+{
+    "nombre":"Shutter Island",
+    "anio":"2010",
+    "director":"Martin Scorsese",
+    "genero":"Thriller",
+    "sinopsis":"En el verano de 1954, los agentes judiciales Teddy Daniels (DiCaprio) y Chuck Aule (Ruffalo) son destinados a una remota isla del puerto de Boston para investigar la desaparición de una peligrosa asesina (Mortimer) que estaba recluida en el hospital psiquiátrico Ashecliffe, un centro penitenciario para criminales perturbados dirigido por el siniestro doctor John Cawley (Kingsley). Pronto descubrirán que el centro guarda muchos secretos y que la isla esconde algo más peligroso que los pacientes. Thriller psicológico basado en la novela homónima de Dennis Lehane (autor de Mystic River y Gone Baby Gone).",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "nombre":"Memento",
+    "anio":"2000",
+    "director":"Christopher Nolan",
+    "genero":"Thriller",
+    "sinopsis":"La memoria de Leonard, un investigador de una agencia de seguros, está irreversiblemente dañada debido a un golpe sufrido en la cabeza cuando intentaba evitar el asesinato de su mujer: éste es el último hecho que recuerda del pasado. La memoria reciente la ha perdido: los hechos cotidianos desaparecen de su mente en unos minutos. Así pues, para investigar e intentar vengar el asesinato de su esposa tiene que recurrir a la ayuda de una cámara instantánea y a las notas tatuadas en su cuerpo.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "nombre":"Inception",
+    "anio":"2010",
+    "director":"Christopher Nolan",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"Dom Cobb (DiCaprio) es un experto en el arte de apropiarse, durante el sueño, de los secretos del subconsciente ajeno. La extraña habilidad de Cobb le ha convertido en un hombre muy cotizado en el mundo del espionaje, pero también lo ha condenado a ser un fugitivo y, por consiguiente, a renunciar a llevar una vida normal. Su única oportunidad para cambiar de vida será hacer exactamente lo contrario de lo que ha hecho siempre: la incepción, que consiste en implantar una idea en el subconsciente en lugar de sustraerla. Sin embargo, su plan se complica debido a la intervención de alguien que parece predecir cada uno de sus movimientos, alguien a quien sólo Cobb podrá descubrir.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "nombre":"Interstellar",
+    "anio":"2014",
+    "director":"Christopher Nolan",
+    "genero":"Ciencia Ficcion",
+    "sinopsis":"Al ver que la vida en la Tierra está llegando a su fin, un grupo de exploradores dirigidos por el piloto Cooper (McConaughey) y la científica Amelia (Hathaway) emprende una misión que puede ser la más importante de la historia de la humanidad: viajar más allá de nuestra galaxia para descubrir algún planeta en otra que pueda garantizar el futuro de la raza humana.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "nombre":"La vita è bella",
+    "anio":"1997",
+    "director":"Roberto Benigni",
+    "genero":"Comedia",
+    "sinopsis":"En 1939, a punto de estallar la Segunda Guerra Mundial (1939-1945), el extravagante Guido llega a Arezzo, en la Toscana, con la intención de abrir una librería. Allí conoce a la encantadora Dora y, a pesar de que es la prometida del fascista Rodolfo, se casa con ella y tiene un hijo. Al estallar la guerra, los tres son internados en un campo de exterminio, donde Guido hará lo imposible para hacer creer a su hijo que la terrible situación que están padeciendo es tan sólo un juego.",
+    "imagen":"https://pics.filmaffinity.com/La_vida_es_bella-611574521-large.jpg"
+},
+{
+    "nombre":"Sen to Chihiro no kamikakushi",
+    "anio":"2001",
+    "director":"Hayao Miyazaki",
+    "genero":"Animacion",
+    "sinopsis":"Chihiro es una niña de diez años que viaja en coche con sus padres. Después de atravesar un túnel, llegan a un mundo fantástico, en el que no hay lugar para los seres humanos, sólo para los dioses de primera y segunda clase. Cuando descubre que sus padres han sido convertidos en cerdos, Chihiro se siente muy sola y asustada.",
+    "imagen":"https://es.web.img2.acsta.net/pictures/21/05/11/13/47/5979708.jpg"
+},
+{
+    "nombre":"Parasite",
+    "anio":"2019",
+    "director":"Bong Joon-ho",
+    "genero":"Drama",
+    "sinopsis":"Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+    "imagen":"https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
+},
+{
+    "nombre":"Nuovo Cinema Paradiso",
+    "anio":"1988",
+    "director":"Giuseppe Tornatore",
+    "genero":"Drama",
+    "sinopsis":"'Cinema Paradiso' es una historia de amor por el cine. Narra la historia de Salvatore, un niño de un pueblecito italiano en el que el único pasatiempo es ir al cine. Subyugado por las imágenes en movimiento, el chico cree ciegamente que el cine es magia; pero, un día, Alfredo, el operador, accede a enseñarle al pequeño los misterios y secretos que se ocultan detrás de una película. Salvatore va creciendo y llega el momento en el que debe abandonar el pueblo y buscarse la vida. Treinta años después recibe un mensaje, en el que le comunican que debe volver a casa.",
+    "imagen":"https://pics.filmaffinity.com/Cinema_Paradiso-502451618-large.jpg"
+},
 ]
