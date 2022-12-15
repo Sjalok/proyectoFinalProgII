@@ -4,18 +4,21 @@
 <br>
 <br>
 {% block body %}
-<h1>BIENVENIDOS A "RECOMENDAME_UNA_PELI.COM"</h1>
+<h1>BIENVENIDOS A RECOMENDAME_UNA_PELI VERSION API</h1>
 <br>
 <br>
-<h2>NUESTRAS 10 ULTIMAS PELIS RECOMENDADAS:</h2>
 <br>
-{% for peli in data %}
-<h2>{{ peli.nombre }}</h2>
-<h2>{{ peli.anio }}</h2>
-<h2>{{ peli.director }}</h2>
-<h2>{{ peli.genero }}</h2>
-<h3>{{ peli.sinapsis }}</h3>
+<h2> Si buscas una api donde ver recomendaciones de gente que sabe de cine, este sitio es para vos! </h2>
 <br>
+<h2> Nuestro sistema se basa en un sistema de usuarios. </h2>
+<h2> Un usuario puede dejar una pelicula para recomendar, solamente tiene que poner el titulo, </h2>
+<h2> el año, el director, genero, una sinopsis, una imagen del poster pelicula ( un link ) y un comentario si lo desea.</h2>
+<h2> Aparte de esto, un usuario puede eliminar una pelicula si esta no tiene algun comentario de algun otro usuario y </h2>
+<h2> sino estas registrado, puedes ver las ultimas 10 peliculas subidas! pero no puedes editar ni editar peliculas </h2>
+<br>
+<br>
+<br>
+<a href="http://127.0.0.1:5000/login">Sistema de usuarios</a>
 
-{% endfor %}
+
 {% endblock %}

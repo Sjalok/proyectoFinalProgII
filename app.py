@@ -1,27 +1,29 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, jsonify
+from flask_login import LoginManager
 import json
-#instancimiento de flas
-    #variable app es un objeto nuevo de tipo flask
+
 app = Flask(__name__)
 
-#tratamiento de json
-with open("users.json") as data1:
-    datos_user = json.load(data1)
+login_manager = LoginManager(app)
 
-with open("data.json") as data2:
-    datos_peliculas = json.load(data2)
+#tratamiento de json
+with open("users.json", encoding='utf-8') as usuarios:
+    datos_user = json.load(usuarios)
+
+with open("data.json", encoding='utf-8') as dataPelis:
+    datos_peliculas = json.load(dataPelis)
 
 #enrrutamientos de la app
     #desde aca empiesan los enrutamientos
+
 @app.route("/")
 def index():
-    return render_template("main.html", data=datos_peliculas)
+    return render_template("main.html")
 
 @app.route("/login")
 def login():
-    return render_template("ngresar.html")
 
-#si el nombre del objeto flask es el main, ejecutalo.
+    return render_template("ingresar.html")
+
 if __name__ =="__main__":
     app.run(debug=True)
-#no poner nada despues de esto, sino no se muestra.

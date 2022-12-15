@@ -1,15 +1,23 @@
-{% extends "plantila.html" %}
+{% extends "plantilla.html" %}
 
 {% block body %}
-<h1>Bienvenidos!</h1>
+<h1>Sistema de usuario y contraseña!</h1>
  <form action="" method="post">
-    <label for="nombre">Nombre de Usuario </label>
-    <input type="text" id="nombre" name="n_usuario">
-
-    <label for="contraseña">Contraseña </label>
+    <label for="nombre">Nombre de Usuario: </label>
+    <input type="text" id="nombre" name="usuario">
+    <br>
+    <br>
+    <label for="contraseña">Contraseña: </label>
     <input type="password" name="c_usuario" id="contraseña">
-
-    <input type="submit" id="ingresar" name="submit">
-    <label for="ingresar">INGRESAR</label>
+    <br>
+    <br>
+    <label for="ingresar"></label>
+    <input type="submit" id="ingresar" name="submit" value="INGRESAR">
+    <br>
+    <br>
+    <h2> Aca el ingreso a usuarios sin registrar </h2>
+    <label for="sinRegistro"></label>
+    <input type="submit" id="sinRegistro" name="submit" value="INGRESAR">
+    
  </form>
 {% endblock %}

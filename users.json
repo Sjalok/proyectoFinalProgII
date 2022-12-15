@@ -1,30 +1,38 @@
 [  
     {
-        "nombre":"Administrador",
-        "contrasenia": 12345
-    }, 
-    {
         "nombre":"Josefina",
-        "contrasenia": 12345
+        "password": 12345
     },
     {
         "nombre":"Pancracio",
-        "contrasenia": 12345
+        "password": 12345
     },
     {
         "nombre":"Maximiliano",
-        "contrasenia": 12345
+        "password": 12345
     },
     {
         "nombre":"Emily",
-        "contrasenia": 12345
+        "password": 12345
     },
     {
         "nombre":"Hernan",
-        "contrasenia": 12345
+        "password": 12345
     },
     {
         "nombre":"Clara",
-        "contrasenia": 12345
+        "password": 12345
+    },
+    {
+        "nombre":"Shiiro",
+        "password":12345
+    },
+    {
+        "nombre":"Panchito",
+        "password":12345
+    },
+    {
+        "nombre":"Sjalok",
+        "password":12345
     }
 ]
