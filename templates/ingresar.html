@@ -3,21 +3,20 @@
 {% block body %}
 <h1>Sistema de usuario y contraseña!</h1>
  <form action="" method="post">
-    <label for="nombre">Nombre de Usuario: </label>
-    <input type="text" id="nombre" name="usuario">
+    <label for="nombre"> Nombre de Usuario: </label>
+    <input type="text" id="nombre" name="usuario" value="" required>
     <br>
     <br>
-    <label for="contraseña">Contraseña: </label>
-    <input type="password" name="c_usuario" id="contraseña">
+    <label for="password"> Contraseña: </label>
+    <input type="password" name="password" id="password" value="" required>
     <br>
     <br>
     <label for="ingresar"></label>
     <input type="submit" id="ingresar" name="submit" value="INGRESAR">
     <br>
     <br>
-    <h2> Aca el ingreso a usuarios sin registrar </h2>
-    <label for="sinRegistro"></label>
-    <input type="submit" id="sinRegistro" name="submit" value="INGRESAR">
-    
+
  </form>
+ <a href=""><h2> Continuar sin loguearse </h2></a>
+
 {% endblock %}
