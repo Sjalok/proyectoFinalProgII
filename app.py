@@ -1,4 +1,4 @@
-from flask import Flask, render_template, jsonify
+from flask import Flask, render_template, jsonify, request
 # from flask_login import LoginManager
 import json
 
@@ -20,9 +20,19 @@ with open("data.json", encoding='utf-8') as dataPelis:
 def index():
     return render_template("main.html")
 
-@app.route("/login")
+@app.route("/login", methods=["POST", "GET"])
 def login():
+    #Recordad que request.form "password" toma un string, y el json tiene que estar en formato string
+    if request.method == "POST":
+        for usuarios in (datos_user):
+            if usuarios["nombre"] == request.form["usuario"] and usuarios["password"] == request.form["password"]:
+                return render_template("main.html")
+            else:
+                print (usuarios, datos_user)
+                return "No existe el usario"
+        
     return render_template("ingresar.html")
+
 
 @app.route("/directores")
 def devolverDirectores():
