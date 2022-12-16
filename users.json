@@ -1,38 +1,38 @@
 [  
     {
         "nombre":"Josefina",
-        "password": 12345
+        "password": "12345"
     },
     {
         "nombre":"Pancracio",
-        "password": 12345
+        "password": "12345"
     },
     {
         "nombre":"Maximiliano",
-        "password": 12345
+        "password": "12345"
     },
     {
         "nombre":"Emily",
-        "password": 12345
+        "password": "12345"
     },
     {
         "nombre":"Hernan",
-        "password": 12345
+        "password": "12345"
     },
     {
         "nombre":"Clara",
-        "password": 12345
+        "password": "12345"
     },
     {
         "nombre":"Shiiro",
-        "password":12345
+        "password": "12345"
     },
     {
         "nombre":"Panchito",
-        "password":12345
+        "password": "12345"
     },
     {
         "nombre":"Sjalok",
-        "password":12345
+        "password": "12345"
     }
 ]

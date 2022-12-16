@@ -27,9 +27,6 @@ def login():
         for usuarios in (datos_user):
             if usuarios["nombre"] == request.form["usuario"] and usuarios["password"] == request.form["password"]:
                 return render_template("main.html")
-            else:
-                print (usuarios, datos_user)
-                return "No existe el usario"
         
     return render_template("ingresar.html")
 
