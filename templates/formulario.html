@@ -1,0 +1,34 @@
+{% extends "plantilla.html" %}
+
+{% block body %}
+<h1>Sube tu pelicula!</h1>
+ <form action="" method="post">
+    <label for="pelicula"> Pelicula: </label>
+    <input type="text" name="pelicula" value="" required>
+    <br><br>
+    <label for="anio"> Año: </label>
+    <input type="text" name="anio" value="" required>
+    <br><br>
+    <label for="director"> Director: </label>
+    <input type="text" name="director" value="" required>
+    <br><br>
+    <label for="genero"> Genero: </label>
+    <input type="text" name="genero" value="" required>
+    <br>
+    <br>
+    <label for="sinopsis"> Sinopsis: </label>
+    <input type="text" name="sinopsis" value="" required>
+    <br><br>
+    <label for="imagen"> Imagen: </label>
+    <input type="text" name="imagen" value="" required>
+    <br><br>
+    <label for="comentario"> Comentario: </label>
+    <input type="text" name="comentario" value="">
+    <br><br>
+    <label for="enviar"></label>
+    <input type="submit" name="submit" value="Enviar">
+    <br>
+    <br>
+ </form>
+
+{% endblock %}

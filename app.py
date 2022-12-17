@@ -30,6 +30,10 @@ def login():
         
     return render_template("ingresar.html")
 
+@app.route("/formulario")
+def formulario():
+    return render_template("formulario.html")
+
 
 @app.route("/directores")
 def devolverDirectores():
