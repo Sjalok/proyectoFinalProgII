@@ -1,0 +1,31 @@
+{% extends "plantilla.html" %}
+<!DOCTYPE html>
+<html >
+    <head>
+        <title>Registro de usuarios</title>
+    </head>
+
+    <body>
+        {% block body %}
+        <h1>REGISTRATE!</h1>
+        <br>
+        <br>
+        <br>
+        <br>
+        <form action="" method="post">
+            <label for="name"> Nombre de Usuario: </label>
+            <input type="text" id="nombre" name="name" value="" required>
+            <br>
+            <br>
+            <label for="contrasenia"> Contraseña: </label>
+            <input type="password" name="contrasenia" id="password" value="" required>
+            <br>
+            <br>
+            <br>
+            <br>
+            <label for="registro"></label>
+            <input type="submit" id="registro" name="submit" value="REGISTRARSE">
+        </form>
+        {% endblock %}
+    </body>
+</html>

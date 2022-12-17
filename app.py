@@ -31,21 +31,67 @@ def login():
                 session["usuario"] = request.form["usuario"]
                 return redirect("/log")
         else:
-            return redirect("/mal")
+            return "El usuario y la contraseña no coinciden con ninguno de nuestros usuarios en la base de datos, por favor, vuelve a intentar"
     return render_template("ingresar.html")
 
-@app.route("/formulario")
+@app.route("/nuevapeli", methods=["GET","POST"])
 def formulario():
+    if "usuario" not in session:
+        return jsonify({"error": "Necesitas estar logueado para ver el contenido"}), 401
+    else:
+        diccAux = {}
+        nombreAux = request.form.get("pelicula")
+        anioAux = request.form.get("anio")
+        directorAux = request.form.get("director")
+        generoAux = request.form.get("genero")
+        sinopsisAux = request.form.get("sinopsis")
+        imagenAux = request.form.get("imagen")
+        coment = request.form.get("comentario")
+        if request.method == "POST":
+            for peliculas in datos_peliculas:
+                if request.form["pelicula"] == peliculas["nombre"]:
+                    return "Esa pelicula ya existe en el sistema, por favor intente con otra pelicula"
+            diccAux["nombre"] = nombreAux
+            diccAux["anio"] = anioAux
+            diccAux["director"] = directorAux
+            diccAux["genero"] = generoAux
+            diccAux["sinopsis"] = sinopsisAux
+            diccAux["imagen"] = imagenAux
+            diccAux["comentario"] = coment
+            datos_peliculas.append(diccAux)
+            return "Su pelicula ha sido agregada con exito! ya se puede ver en nuestro sistema, para corroborarlo busque http://127.0.0.1:5000/peliculas/" + nombreAux + "."
     return render_template("formulario.html")
 
-@app.route("/mal")
-def pifiada():
-    return render_template("wrong.html")
+@app.route("/registro", methods=["GET","POST"])
+def registro():
+    diccAux = {}
+    nombreAux = request.form.get("name")
+    passAux = request.form.get("contrasenia")
+    if request.method == "POST":
+        for nombres in datos_user:
+            if request.form["name"] == nombres["nombre"]:
+                return "Ese nombre de usuario ya existe en nuestro registro, por favor, intente con otro!"
+        diccAux["nombre"] = nombreAux
+        diccAux["password"] = passAux
+        datos_user.append(diccAux)
+        return "Su usuario se ha registrado con exito! por favor ve a la pantalla de logeo y entre con su nueva cuenta. El link: http://127.0.0.1:5000/login"
+    return render_template("registro.html")
+
+@app.route("/borrarpeli", methods=["GET","DELETE"])
+def borrarPeli():
+    if "usuario" not in session:
+        return jsonify({"error": "Necesitas estar logueado para ver el contenido"}), 401
+    else:
+        print("asd")
+        if request.method == "DELETE":
+            print("asd")
+            return 200
+    return render_template("borrar.html"), 200
 
 @app.route("/log")
 def pagUsuario():
     if "usuario" not in session:
-        return "Necesitas estar logueado para acceder al sistema", 401
+        jsonify({"error": "Necesitas estar logueado para ver el contenido"}), 401
     else:
         return render_template("logueado.html")
 
@@ -76,9 +122,9 @@ def devolverPeliculas():
 
 @app.route("/peliculas/<nombre>")
 def devolverPeli(nombre):
-    # if "username" not in session:
-    #     return jsonify({"error": "Necesitas estar logueado para ver el contenido"}), 401
-    # else:      LO DEJO COMENTADO POR QUE ES PARA CUANDO HAGAN EL SISTEMA DE LOGIN, SI LO DEJO NORMAL TE TIRA ERROR
+    if "username" not in session:
+        return jsonify({"error": "Necesitas estar logueado para ver el contenido"}), 401
+    else:
         peliAux = nombre
         for pelicula in datos_peliculas:
             if pelicula["nombre"] == peliAux:
