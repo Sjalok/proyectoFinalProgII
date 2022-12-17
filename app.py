@@ -1,8 +1,10 @@
-from flask import Flask, render_template, jsonify, request
+from flask import Flask, render_template, jsonify, request,session,redirect
 # from flask_login import LoginManager
 import json
 
 app = Flask(__name__)
+
+app.secret_key=b'_5#y2L"F4Q8z\n\xec]/'
 
 # login_manager = LoginManager(app)
 
@@ -26,14 +28,26 @@ def login():
     if request.method == "POST":
         for usuarios in (datos_user):
             if usuarios["nombre"] == request.form["usuario"] and usuarios["password"] == request.form["password"]:
-                return render_template("main.html")
-        
+                session["usuario"] = request.form["usuario"]
+                return redirect("/log")
+        else:
+            return redirect("/mal")
     return render_template("ingresar.html")
 
 @app.route("/formulario")
 def formulario():
     return render_template("formulario.html")
 
+@app.route("/mal")
+def pifiada():
+    return render_template("wrong.html")
+
+@app.route("/log")
+def pagUsuario():
+    if "usuario" not in session:
+        return "Necesitas estar logueado para acceder al sistema", 401
+    else:
+        return render_template("logueado.html")
 
 @app.route("/directores")
 def devolverDirectores():
@@ -56,6 +70,10 @@ def devolverPeliDeDirector(director):
                 listaAux.append(director)
     return jsonify({f"peliculas dirigidas por este director": listaAux}), 200
 
+@app.route("/peliculas")
+def devolverPeliculas():
+    return jsonify(datos_peliculas)
+
 @app.route("/peliculas/<nombre>")
 def devolverPeli(nombre):
     # if "username" not in session:
@@ -65,7 +83,7 @@ def devolverPeli(nombre):
         for pelicula in datos_peliculas:
             if pelicula["nombre"] == peliAux:
                 return jsonify(pelicula)
-        return jsonify(pelicula)
+        return jsonify(pelicula) , 200
 
 @app.route("/generos")
 def devolverGeneros():
