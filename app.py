@@ -77,15 +77,17 @@ def registro():
         return "Su usuario se ha registrado con exito! por favor ve a la pantalla de logeo y entre con su nueva cuenta. El link: http://127.0.0.1:5000/login"
     return render_template("registro.html")
 
-@app.route("/borrarpeli", methods=["GET","DELETE"])
+@app.route("/borrarpeli", methods=["GET","POST"])
 def borrarPeli():
     if "usuario" not in session:
         return jsonify({"error": "Necesitas estar logueado para ver el contenido"}), 401
     else:
         print("asd")
-        if request.method == "DELETE":
-            print("asd")
-            return 200
+        if request.method == "POST":
+            for pelicula in (datos_peliculas):
+                if pelicula["nombre"] == request.form["peli"] and pelicula["comentarios"] == [{}]:
+                    print("se elimino")
+                    datos_peliculas.remove(pelicula)
     return render_template("borrar.html"), 200
 
 @app.route("/log")
