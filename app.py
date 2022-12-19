@@ -34,6 +34,10 @@ def login():
             return "El usuario y la contraseña no coinciden con ninguno de nuestros usuarios en la base de datos, por favor, vuelve a intentar"
     return render_template("ingresar.html")
 
+@app.route("/pelis")
+def pelis():
+    return render_template("peliculas.html")
+
 @app.route("/nuevapeli", methods=["GET","POST"])
 def formulario():
     if "usuario" not in session:
@@ -86,8 +90,8 @@ def borrarPeli():
         if request.method == "POST":
             for pelicula in (datos_peliculas):
                 if pelicula["nombre"] == request.form["peli"] and pelicula["comentarios"] == [{}]:
-                    print("se elimino")
                     datos_peliculas.remove(pelicula)
+                    return "Se elimino la pelicula correctamente"
     return render_template("borrar.html"), 200
 
 @app.route("/log")

@@ -1,0 +1,15 @@
+{% extends "plantilla.html" %}
+
+{% block body %}
+
+    {% for peli in data %}
+        <h2>NUESTRAS 10 ULTIMAS PELIS RECOMENDADAS:</h2>
+
+        <h2>{{ dataPeli.nombre }}</h2>
+        <h2>{{ peli.anio }}</h2>
+        <h2>{{ peli.director }}</h2>
+        <h2>{{ peli.genero }}</h2>
+        <h3>{{ peli.sinapsis }}</h3>
+
+    {% endfor %}
+{% endblock %}
