@@ -1,25 +1,15 @@
 {% extends "plantilla.html" %}
-<!DOCTYPE html>
-<html >
-    <head>
-        <title>Borra una peli!</title>
-    </head>
 
-    <body>
-        {% block body %}
-        <h1>Formulario para borrar una peli!</h1>
-        <br>
-        <br>
-        <br>
-        <br>
-        <form action="" method="post">
-            <label for="peli">Nombre de la pelicula que desea borrar: </label>
-            <input type="text" name="peli" value="" required>
-            <br>
-            <br>
-            <label for="borrar"></label>
-            <input type="submit" name="borrar" value="BORRAR">
-        </form>
-        {% endblock %}
-    </body>
-</html>
+{% block body %}
+<h1>Formulario para borrar una peli!</h1>
+<br>
+<br>
+<form action="" method="post">
+    <label for="peli">Nombre de la pelicula a borrar: </label>
+    <input type="text" name="peli" value="" required>
+    <br>
+    <br>
+    <label for="borrar"></label>
+    <input type="submit" name="borrar" value="BORRAR">
+</form>
+{% endblock %}

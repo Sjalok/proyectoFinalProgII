@@ -1,50 +1,39 @@
 {% extends "plantilla.html" %}
-<!DOCTYPE html>
-<html >
-    <head>
-        <title>Panel de usuarios</title>
-    </head>
 
-    <body>
-        {% block body %}
-        <h1> Bienvenido/a! a la API de Recomendame una peli! </h1>
-        <br>
-        <br>
-        <h2> Al estar registrado en nuestro sistema tienes acceso vip y podes hacer algunas cositas ;)</h2>
-        <br>
-        <br>
-        <h2> Nuestro sistema te permite hacer varias acciones:</h2>
-        <br>
-        <ol>
-            <li> Agregar una pelicula ( cualquiera, la que te guste ), solo respeta nuestras normas y por favor agrega nombre, año, director, sinopsis, una imagen ( poster de la pelicula, aun que sea un link a la imagen )
-                 y un comentario tuyo respecto a la pelicula ( sino dejas un comentario, otro usuario puede borrarte la pelicula ), para esto entra en este link: <a href="http://127.0.0.1:5000/nuevapeli"> Pinchame </a> </li>
-            <br>
-            <li> FUNCIONA AGREGADA: Podes ver la lista de peliculas, solo tenes que entrar a este link: <a href="http://127.0.0.1:5000/peliculas"> PELICULAS! :) </a></li>
-            <br>
-            <li> Eliminar una pelicula de la lista. ( OJO!!! ) Solamente podes borrar las que no tienen comentarios de otros usuarios, no seas pillin!. Para eso entra en el siguiente <a href="http://127.0.0.1:5000/borrarpeli"> Pinchame </a></li>
-            <br>
-            <li> Modificar la informacion de una pelicula del sistema. Te advertimos que sabemos de peliculas asi que no pongas cualquiera fruta. Para eso entra en el siguiente link: <a href="http://127.0.0.1:5000/modificarpeli"> Pinchame </a></li>
-            <br>
-            <li> Comentar alguna pelicula del sistema. link : <a href="http://127.0.0.1:5000/comentar"> Pinchame </a> </li>
-        </ol>
-        <br>
-        <br>
-        <br>
-        <br>
-        <ol> Herramientas para desarrolladores!
-            <br>
-            <br>
-            <li> Endpoint con la lista de directores de la plataforma: http://127.0.0.1:5000/directores"</li>
-            <br>
-            <li> Endpoint con la lista de generos de la plataforma: http://127.0.0.1:5000/generos"</li>
-            <br>
-            <li> Endpoint con las peliculas dirigias por cierto director!: http://127.0.0.1:5000/director/nombredeldirector</li>
-            <br>
-            <li> Endpoint con las peliculas que tienen imagen o link a imagenes a sus respectivos posters: http://127.0.0.1:5000/pelisconimagenes</li>
-            <br>
-            <li> Endpoint que lleva al ABM de cada pelicula: </li>
-        </ol>
-        <h3> </h3>
-        {% endblock %}
-    </body>
-</html>
+{% block body %}
+<h1> Bienvenido/a! a la API de Recomendame una peli! </h1>
+<br>
+<br>
+<h2> Al estar registrado en nuestro sistema tienes acceso vip y podes hacer algunas cositas ;)</h2>
+<br>
+<br>
+<h2> Nuestro sistema te permite hacer varias acciones:</h2>
+<ol>
+    <li> Agregar una pelicula ( cualquiera, la que te guste ), solo respeta nuestras normas y por favor agrega nombre, año, director, sinopsis, una imagen ( poster de la pelicula, aun que sea un link a la imagen )
+    y un comentario tuyo respecto a la pelicula ( sino dejas un comentario, otro usuario puede borrarte la pelicula ), para esto entra en este link: <a href="http://127.0.0.1:5000/nuevapeli"> Pinchame </a> </li>
+    <br>
+    <li> FUNCIONA AGREGADA: Podes ver la lista de peliculas, solo tenes que entrar a este link: <a href="http://127.0.0.1:5000/peliculas"> PELICULAS! :) </a></li>
+    <br>
+    <li> Eliminar una pelicula de la lista. ( OJO!!! ) Solamente podes borrar las que no tienen comentarios de otros usuarios, no seas pillin!. Para eso entra en el siguiente <a href="http://127.0.0.1:5000/borrarpeli"> Pinchame </a></li>
+    <br>
+    <li> Modificar la informacion de una pelicula del sistema. Te advertimos que sabemos de peliculas asi que no pongas cualquiera fruta. Para eso entra en el siguiente link: <a href="http://127.0.0.1:5000/modificarpeli"> Pinchame </a></li>
+    <br>
+    <li> Comentar alguna pelicula del sistema. link : <a href="http://127.0.0.1:5000/comentar"> Pinchame </a> </li>
+</ol>
+<br>
+<br>
+<br>
+<h2>Herramientas para desarrolladores!</h2>
+<ol> 
+    <br>
+    <li> Endpoint con la lista de directores de la plataforma: <a href="http://127.0.0.1:5000/directores">http://127.0.0.1:5000/directores</a></li>
+    <br>
+    <li> Endpoint con la lista de generos de la plataforma: <a href="http://127.0.0.1:5000/generos">http://127.0.0.1:5000/generos</a></li>
+    <br>
+    <li> Endpoint con las peliculas dirigias por cierto director!: http://127.0.0.1:5000/director/nombredeldirector</li>
+    <br>
+    <li> Endpoint con las peliculas que tienen imagen o link a imagenes a sus respectivos posters: http://127.0.0.1:5000/pelisconimagenes</li>
+    <br>
+    <li> Endpoint que lleva al ABM de cada pelicula: </li>
+</ol>
+{% endblock %}

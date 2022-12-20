@@ -1,12 +1,10 @@
 from flask import Flask, render_template, jsonify, request,session,redirect
-# from flask_login import LoginManager
 import json
 
 app = Flask(__name__)
 
 app.secret_key=b'_5#y2L"F4Q8z\n\xec]/'
 
-# login_manager = LoginManager(app)
 
 #tratamiento de json
 with open("users.json", encoding='utf-8') as usuarios:
@@ -87,12 +85,15 @@ def borrarPeli():
     if "usuario" not in session:
         return jsonify({"error": "Necesitas estar logueado para ver el contenido"}), 401
     else:
+        print("asd")
         if request.method == "POST":
             for pelicula in (datos_peliculas):
-                if pelicula["nombre"] == request.form["peli"] and pelicula["comentarios"] == [{}]:
+                if pelicula["nombre"] == request.form["peli"] and pelicula["comentarios"] == {}:
+                    print("se elimino")
                     datos_peliculas.remove(pelicula)
+                    return "Se elimino la pelicula correctamente"
     return render_template("borrar.html"), 200
-
+    
 @app.route("/eliminarpeli", methods=["GET","DELETE"]) #METODO para postman para eliminar una pelicula ( para usar el metodo DELETE en vez de post por html )
 def eliminarPeli(pelicula):
     if "usuario" not in session:
@@ -181,7 +182,7 @@ def modificarPeli():
     return render_template("Modificar.html")
                     
 @app.route("/modificarpelipostman", methods=["GET","POST","PUT"]) # METODO PUT PARA MODIFICAR LA PELI PARA USAR EN POSTMAN MANDANDO UN JSON
-def eliminarPeli():
+def modificarPelii():
     if "usuario" not in session:
         jsonify({"error": "Necesitas estar logueado para ver el contenido"}), 401
     else:

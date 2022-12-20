@@ -1,28 +1,20 @@
 {% extends "plantilla.html" %}
-<!DOCTYPE html>
-<html >
-    <head>
-    </head>
 
-    <body>
-        {% block body %}
-        <h1>Deja tu comentario sobre una peli!</h1>
-        <br>
-        <br>
-        <br>
-        <form action="" method="post">
-            <label for="nombre">Nombre de la pelicula que queres comentar: </label>
-            <input type="text" name="nombre" id="" required>
-            <br>
-            <br>
-            <label for="comentario">Deja tu comentario: </label>
-            <input type="text" name="comentario" required>
-            <br>
-            <br>
-            <br>
-            <label for="enviar"></label>
-            <input type="submit" name="enviar" value="Enviar">
-        </form>
-        {% endblock %}
-    </body>
-</html>
+{% block body %}
+<h1>Deja tu comentario sobre una peli!</h1>
+<br>
+<br>
+<form action="" method="post">
+    <label for="nombre">Nombre de la pelicula que queres comentar: </label>
+    <input type="text" name="nombre" id="" required>
+    <br>
+    <br>
+    <label for="comentario">Deja tu comentario: </label>
+    <input type="text" name="comentario" required>
+    <br>
+    <br>
+    <br>
+    <label for="enviar"></label>
+    <input type="submit" name="enviar" value="Enviar">
+</form>
+{% endblock %}
