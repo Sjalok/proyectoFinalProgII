@@ -34,16 +34,13 @@ def login():
             return "El usuario y la contraseña no coinciden con ninguno de nuestros usuarios en la base de datos, por favor, vuelve a intentar"
     return render_template("ingresar.html")
 
-@app.route("/pelis")
-def pelis():
-    return render_template("peliculas.html")
-
 @app.route("/nuevapeli", methods=["GET","POST"])
 def formulario():
     if "usuario" not in session:
         return jsonify({"error": "Necesitas estar logueado para ver el contenido"}), 401
     else:
         diccAux = {}
+        comentador = session["usuario"]
         nombreAux = request.form.get("pelicula")
         anioAux = request.form.get("anio")
         directorAux = request.form.get("director")
@@ -51,6 +48,7 @@ def formulario():
         sinopsisAux = request.form.get("sinopsis")
         imagenAux = request.form.get("imagen")
         coment = request.form.get("comentario")
+        diccAux2 = [{comentador:coment}]
         if request.method == "POST":
             for peliculas in datos_peliculas:
                 if request.form["pelicula"] == peliculas["nombre"]:
@@ -61,7 +59,10 @@ def formulario():
             diccAux["genero"] = generoAux
             diccAux["sinopsis"] = sinopsisAux
             diccAux["imagen"] = imagenAux
-            diccAux["comentario"] = coment
+            if request.form.get("comentario") != "":
+                diccAux["comentarios"] = diccAux2
+            else:
+                diccAux["comentarios"] = [{}]
             datos_peliculas.append(diccAux)
             return "Su pelicula ha sido agregada con exito! ya se puede ver en nuestro sistema, para corroborarlo busque http://127.0.0.1:5000/peliculas/" + nombreAux + "."
     return render_template("formulario.html")
@@ -86,13 +87,130 @@ def borrarPeli():
     if "usuario" not in session:
         return jsonify({"error": "Necesitas estar logueado para ver el contenido"}), 401
     else:
-        print("asd")
         if request.method == "POST":
             for pelicula in (datos_peliculas):
                 if pelicula["nombre"] == request.form["peli"] and pelicula["comentarios"] == [{}]:
                     datos_peliculas.remove(pelicula)
-                    return "Se elimino la pelicula correctamente"
     return render_template("borrar.html"), 200
+
+@app.route("/eliminarpeli", methods=["GET","DELETE"]) #METODO para postman para eliminar una pelicula ( para usar el metodo DELETE en vez de post por html )
+def eliminarPeli(pelicula):
+    if "usuario" not in session:
+        return jsonify({"error": "Necesitas estar logueado para ver el contenido"}), 401
+    else:
+        listaAux = []
+        nombre = pelicula
+        if request.method == "DELETE":
+            for pelicula in (datos_peliculas):
+                for nombre in datos_peliculas:
+                    listaAux.append(nombre[0])
+                if pelicula["nombre"] == request.form["peli"] and pelicula["comentarios"] == [{}]:
+                    datos_peliculas.remove(pelicula)
+                    return "Tu pelicula ha sido removida con exito!", 200
+                if nombre not in listaAux:
+                    return "No existe una pelicula con ese nombre!", 401
+                if pelicula["comentarios"] != [{}]:
+                    return "No seas pillin, esa pelicula tiene comentarios", 401
+    return ""
+
+@app.route("/comentar", methods=["GET","POST"])
+def comentarPeli():
+    if "usuario" not in session:
+        return jsonify({"error": "Necesitas estar logueado para ver el contenido"}), 401
+    else:
+        if request.method == "POST":
+            comentador = session["usuario"]
+            coment = request.form.get("comentario")
+            listaAux = []
+            diccAux = {comentador:coment}
+            numAux = 0
+            for pelicula in (datos_peliculas):
+                if pelicula["nombre"] == request.form["nombre"]:
+                    auxiliar = datos_peliculas[numAux]["comentarios"]
+                    for comentario in auxiliar:
+                        listaAux.append(comentario)
+                    if comentador not in listaAux:
+                        datos_peliculas[numAux]["comentarios"].update(diccAux)
+                        listaAux = []
+                        return f"Tu comentario se ha agregado correctamente!", 200
+                    if comentador in listaAux:
+                        listaAux = []
+                        return f"Ya habias comentado esa pelicula, por favor, intenta con otra", 200
+                numAux += 1
+            return f"Esa pelicula no esta en el sistema, por favor chequea de vuelta!"
+    return render_template("comentar.html"), 200
+
+@app.route("/10pelis", methods=["GET"])
+def ultimasPelis():
+    numAux = len(datos_peliculas)
+    numAux2 = numAux - 10
+    listaAux = []
+    for pelicula in datos_peliculas[numAux2:numAux]:
+        listaAux.append(pelicula)
+    return jsonify(listaAux), 200
+
+@app.route("/modificarpeli", methods=["GET","POST"])
+def modificarPeli():
+    if "usuario" not in session:
+        return jsonify({"error": "Necesitas estar logueado para ver el contenido"}), 401
+    else:
+        numAux = 0
+        coment = request.form.get("comentario")
+        nombreAux = request.form.get("pelicula")
+        anioAux = request.form.get("anio")
+        directorAux = request.form.get("director")
+        generoAux = request.form.get("genero")
+        sinopsisAux = request.form.get("sinopsis")
+        imagenAux = request.form.get("imagen")
+        if request.method == "POST":
+            for peliculas in datos_peliculas:
+                if nombreAux == datos_peliculas[numAux]["nombre"]:
+                    if anioAux != "":
+                        datos_peliculas[numAux]["anio"] = anioAux
+                    if directorAux != "":
+                        datos_peliculas[numAux]["director"] = directorAux
+                    if generoAux != "":
+                        datos_peliculas[numAux]["genero"] = generoAux
+                    if sinopsisAux != "":
+                        datos_peliculas[numAux]["sinopsis"] = sinopsisAux
+                    if imagenAux != "":
+                        datos_peliculas[numAux]["imagen"] = imagenAux
+                    return "La pelicula se ha modificado correctamente!", 200
+                numAux += 1
+            return "Esa pelicula no existe en nuestro sistema!", 401
+    return render_template("Modificar.html")
+                    
+@app.route("/modificarpelipostman", methods=["GET","POST","PUT"]) # METODO PUT PARA MODIFICAR LA PELI PARA USAR EN POSTMAN MANDANDO UN JSON
+def eliminarPeli():
+    if "usuario" not in session:
+        jsonify({"error": "Necesitas estar logueado para ver el contenido"}), 401
+    else:
+        numAux = 0
+        jsoneando = request.get_json()
+        nombreAux = jsoneando["nombre"]
+        anioAux = jsoneando["anio"]
+        directorAux = jsoneando["director"]
+        generoAux = jsoneando["genero"]
+        sinopsisAux = jsoneando["sinopsis"]
+        imagenAux = jsoneando["imagen"]
+        if request.method == "PUT":
+             for peliculas in datos_peliculas:
+                if nombreAux == datos_peliculas[numAux]["nombre"]:
+                    if anioAux != "":
+                        datos_peliculas[anioAux]["anio"] = anioAux
+                    if directorAux != "":
+                        datos_peliculas[directorAux]["director"] = directorAux
+                    if generoAux != "":
+                        datos_peliculas[generoAux]["genero"] = generoAux
+                    if sinopsisAux != "":
+                        datos_peliculas[sinopsisAux]["sinopsis"] = sinopsisAux
+                    if imagenAux != "":
+                        datos_peliculas[imagenAux]["imagen"] = imagenAux
+                    return jsonify({"error":"La pelicula se ha modificado correctamente!"}), 200
+                numAux += 1
+                return "Esa pelicula no existe en nuestro sistema!", 401
+
+    
 
 @app.route("/log")
 def pagUsuario():

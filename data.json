@@ -5,20 +5,20 @@
     "genero": "Comedia",
     "sinopsis": "Mama Cora se acerca a los 80 años y vive con el más pobre de sus hijos. La familia decide reunirse para hablar sobre quien será el próximo en cuidar la madre y todo el mundo intenta esquivar la responsabilidad. Las discusiones se terminan cuando reciben la noticia que Mama Cora se ha suicidado. Ahora todo serán lamentaciones. Comedia argentina de gran éxito en el país, se basa en la divertida obra de teatro homónima del uruguayo Jacobo Langsner. Fue tanta la expectación que despertó en su estreno, que ha sido considerada un clásico del cine argentino e, incluso, los crítico la han clasificado como una de las mejores cintas cómicas de la historia de Argentina.",
     "imagen": "https://m.media-amazon.com/images/M/MV5BZjQxNWM3ODktZDQ2My00NDAyLWJkZDUtMWJiZWNjNTM2ZjU4XkEyXkFqcGdeQXVyMTk5MTE5MTg@._V1_.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "Para que aprendran! Hijos de @!$%"
-    }]
+    }
 },
 {
-    "nombre":"happy feet",
+    "nombre":"Happy feet",
     "anio":"2005",
     "director": "George Miller",
     "genero": "Animacion",
     "sinopsis": "En la gran nación de los Pingüinos Emperador, en lo más profundo de la Antártida, no eres nadie si no sabes cantar, lo cual representa una gran desventaja para Mumble (voz de Elijah Wood), que es el peor cantante del mundo. Ha nacido bailando según su propio estilo claqué.",
     "imagen": "https://m.media-amazon.com/images/M/MV5BZWU2NDkxYjktNWVlMS00MTM4LWJjMDAtOWYxZjJkZWFhYzAxXkEyXkFqcGdeQXVyMTA1NjE5MTAz._V1_.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Maximiliano" : "No tenia ni idea de que Robbin Williams hacia del pinguino bailante!!!"
-    }]
+    }
 },
 {
     "nombre":"IT",
@@ -27,7 +27,7 @@
     "genero": "Terror",
     "sinopsis": "La película cuenta la historia de siete niños marginados del municipio de Derry, Maine (EE. UU.), que se llaman a sí mismos El Club de los Perdedores. Todos se han visto marginados por uno u otro motivo; todos cargan con alguna de las cualidades favoritas de los abusones de la ciudad... y todos han visto sus peores pesadillas hacerse realidad en forma de un antiguo depredador que cambia de forma y al que solo logran llamar eso",
     "imagen": "https://pics.filmaffinity.com/It-819298627-large.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Nueve reinas",
@@ -36,9 +36,9 @@
     "genero":"Suspenso",
     "sinopsis":"Buenos Aires. Juan y Marcos son dos estafadores de poca monta, uno joven y un veterano en el arte del timo, que casualmente se ven envueltos en un asunto que les puede hacer millonarios: tienen menos de un día para hacer una estafa que no puede fallar.",
     "imagen":"https://pics.filmaffinity.com/Nueve_reinas-699348153-large.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "La vi como 5 veces y todavia no entiendo como la estafa a la vendedora de la estacion de servicio"
-    }]
+    }
 },
 {
     "nombre":"El secreto de sus ojos",
@@ -47,7 +47,7 @@
     "genero":"Drama",
     "sinopsis":"Benjamín Espósito es oficial de un Juzgado de Instrucción de Buenos Aires recién retirado. Obsesionado por un brutal asesinato ocurrido veinticinco años antes, en 1974, decide escribir una novela sobre el caso, del cual fue testigo y protagonista. Reviviendo el pasado, viene también a su memoria el recuerdo de una mujer, a quien ha amado en silencio durante todos esos años.",
     "imagen":"https://pics.filmaffinity.com/El_secreto_de_sus_ojos-483213496-large.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Reservoir Dogs",
@@ -56,7 +56,7 @@
     "genero":"Crimen",
     "sinopsis":"Una banda organizada es contratada para atracar una empresa y llevarse unos diamantes. Sin embargo, antes de que suene la alarma, la policía ya está allí. Algunos miembros de la banda mueren en el enfrentamiento con las fuerzas del orden, y los demás se reúnen en el lugar convenido.",
     "imagen":"",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Pulp Fiction",
@@ -65,9 +65,9 @@
     "genero":"Humor negro",
     "sinopsis":"Jules y Vincent, dos asesinos a sueldo con no demasiadas luces, trabajan para el gángster Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su atractiva mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
     "imagen":"",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "mi sueño es bailar como Travolta en la escena cuando bailan, por dios!!!"
-    }]
+    }
 },
 {
     "nombre":"Inglourious Bastards",
@@ -76,9 +76,9 @@
     "genero":"Belica",
     "sinopsis":"",
     "imagen":"",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "Antonio Margareeeeeeeti"
-    }]
+    }
 },
 {
     "nombre":"The Hateful Eight",
@@ -87,7 +87,7 @@
     "genero":"Western",
     "sinopsis":"Pocos años después de la Guerra de Secesión, una diligencia avanza por el invernal paisaje de Wyoming. Los pasajeros, el cazarrecompensas John Ruth (Kurt Russell) y su fugitiva Daisy Domergue (Jennifer Jason Leigh), intentan llegar al pueblo de Red Rock, donde Ruth entregará a Domergue a la justicia. Por el camino, se encuentran con dos desconocidos: el mayor Marquis Warren (Samuel L. Jackson), un antiguo soldado de la Unión convertido en cazarrecompensas de mala reputación, y Chris Mannix (Walton Goggins), un renegado sureño que afirma ser el nuevo sheriff del pueblo. Como se aproxima una ventisca, los cuatro se refugian en la Mercería de Minnie, una parada para diligencias de un puerto de montaña. Cuando llegan al local se topan con cuatro rostros desconocidos: el mexicano Bob (Demian Bichir), Oswaldo Mobray (Tim Roth), verdugo de Red Rock, el vaquero Joe Gage (Michael Madsen) y el general confederado Sanford Smithers (Bruce Dern). Mientras la tormenta cae sobre la parada de montaña, los ocho viajeros descubren que tal vez no lleguen hasta Red Rock después de todo",
     "imagen":"",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Once Upon a Time in Hollywood",
@@ -96,7 +96,7 @@
     "genero":"Humor negro",
     "sinopsis":"Hollywood, años 60. La estrella de un western televisivo, Rick Dalton (DiCaprio), intenta amoldarse a los cambios del medio al mismo tiempo que su doble (Pitt). La vida de Dalton está ligada completamente a Hollywood, y es vecino de la joven y prometedora actriz y modelo Sharon Tate (Robbie) que acaba de casarse con el prestigioso director Roman Polanski.",
     "imagen":"",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"2001: A Space Odyssey",
@@ -105,10 +105,10 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"La película de ciencia-ficción por excelencia de la historia del cine narra los diversos periodos de la historia de la humanidad, no sólo del pasado, sino también del futuro. Hace millones de años, antes de la aparición del homo sapiens, unos primates descubren un monolito que los conduce a un estadio de inteligencia superior. Millones de años después, otro monolito, enterrado en una luna, despierta el interés de los científicos. Por último, durante una misión de la NASA, HAL 9000, una máquina dotada de inteligencia artificial, se encarga de controlar todos los sistemas de una nave espacial tripulada",
     "imagen":"",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "La vi en 2020 y me sorprende la calidad de la filmacion, las escenas, Kubrick era un visionario, estaba demente. La parodia en Charly y la fabrica de chocolate es excelente",
         "Josefina" : "La verdad que no entendi nada de la pelicula, pero las imagenes muy buenas"
-    }]
+    }
 },
 {
     "nombre":"Clockwork Orange",
@@ -117,7 +117,7 @@
     "genero":"Drama",
     "sinopsis":"Gran Bretaña, en un futuro indeterminado. Alex (Malcolm McDowell) es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes apaleando, violando y aterrorizando a la población. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisión, se someterá voluntariamente a una innovadora experiencia de reeducación que pretende anular drásticamente cualquier atisbo de conducta antisocial",
     "imagen":"",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"The Shining",
@@ -126,9 +126,9 @@
     "genero":"Terror",
     "sinopsis":"Jack Torrance se traslada con su mujer y su hijo de siete años al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento de las instalaciones durante la temporada invernal, época en la que permanece cerrado y aislado por la nieve. Su objetivo es encontrar paz y sosiego para escribir una novela. Sin embargo, poco después de su llegada al hotel, al mismo tiempo que Jack empieza a padecer inquietantes trastornos de personalidad, se suceden extraños y espeluznantes fenómenos paranormales.",
     "imagen":"",
-    "comentarios" : [{
+    "comentarios" : {
         "Hernan" : "Si no te acordaste del especial de halloween de los simpson en el 80% de la pelicula, replanteate tu vida"
-    }]
+    }
 },
 {
     "nombre":"Full Metal Jacket",
@@ -137,9 +137,9 @@
     "genero":"Belica",
     "sinopsis":"Un grupo de reclutas se prepara en Parris Island, centro de entrenamiento de la marina norteamericana. Están bajo las órdenes del sargento Hartman, duro e implacable, cuya única misión en la vida es endurecer el cuerpo y el alma de los novatos, con el objetivo de que en el futuro puedan defenderse del enemigo. Pero no todos los jóvenes están preparados para soportar sus métodos.",
     "imagen":"",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "La escena del baño es increible, 25 años y todavia me da piel de gallina"
-    }]
+    }
 },
 {
     "nombre":"Eyes Wide Shut",
@@ -148,9 +148,9 @@
     "genero":"Drama",
     "sinopsis":"William Harford es un respetable médico neoyorquino cuya vida parece ir muy bien: está casado con una preciosa mujer, tiene una hija y un trabajo que le gusta. Pero, al día siguiente de asistir a una fiesta, su esposa Alice le habla de unas fantasías eróticas y de cómo estuvo a punto de romper su matrimonio por un desconocido. Abrumado por esta confesión, acaba entrando en un local, donde un antiguo compañero le habla de una congregación secreta dedicada al hedonismo y al placer sin límites. A partir de entonces un mundo dominado por el sexo y el erotismo se abre ante él.",
     "imagen":"",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "Una de mis peliculas favoritas, las actuaciones de Tom Cruise y Kidman son muy buenas, los dialogos exquisitos, la pelicula te transmite una incomodad todo el rato que es demasiado atractiva"
-    }]
+    }
 },
 {
     "nombre":"Rosemary´s baby",
@@ -159,7 +159,7 @@
     "genero":"Terror",
     "sinopsis":"Los Woodhouse, un matrimonio neoyorquino, se mudan a un edificio situado frente a Central Park, sobre el cual, según un amigo, pesa una maldición. Una vez instalados, se hacen amigos de Minnie y Roman Castevet, unos vecinos que los colman de atenciones. Ante la perspectiva de un buen futuro, los Woodhouse deciden tener un hijo; pero, cuando Rosemary se queda embarazada, lo único que recuerda es haber hecho el amor con una extraña criatura que le ha dejado el cuerpo lleno de marcas. Con el paso del tiempo, Rosemary empieza a sospechar que su embarazo no es normal.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMTA5NWQwMmYtZjEyYS00Nzc2LTgwZjAtNTQ4NmFmZjNkNjg4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Chinatown",
@@ -168,7 +168,7 @@
     "genero":"Crimen",
     "sinopsis":"Los Ángeles, 1937. El detective Gittes, especializado en divorcios, recibe la visita de la esposa de Mulwray, el jefe del Servicio de Aguas de la ciudad, que sospecha que su marido la engaña. Al mismo tiempo, Gittes descubre que los agricultores acusan a Mulwray de corrupción por su negativa a construir un pantano que paliaría la sequía que sufren. Poco después, el escándalo salta a la prensa, pero la cosa se complica cuando una mujer se presenta en el despacho de Gittes con una sorprendente revelación.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"The Pianist",
@@ -177,7 +177,7 @@
     "genero":"Drama",
     "sinopsis":"Wladyslaw Szpilman, un brillante pianista polaco de origen judío, vive con su familia en el ghetto de Varsovia. Cuando, en 1939, los alemanes invaden Polonia, consigue evitar la deportación gracias a la ayuda de algunos amigos. Pero tendrá que vivir escondido y completamente aislado durante mucho tiempo, y para sobrevivir tendrá que afrontar constantes peligros.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Schindler´s List",
@@ -186,9 +186,9 @@
     "genero":"Drama",
     "sinopsis":"Oskar Schindler (Liam Neeson), un empresario alemán de gran talento para las relaciones públicas, busca ganarse la simpatía de los nazis de cara a su beneficio personal. Después de la invasión de Polonia por los alemanes en 1939, Schindler consigue, gracias a sus relaciones con los altos jerarcas nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente, gracias sobre todo a su gerente Itzhak Stern (Ben Kingsley), también judío. Pero conforme la guerra avanza, Schindler y Stern comienzan ser conscientes de que a los judíos que contratan, los salvan de una muerte casi segura en el temible campo de concentración de Plaszow, que lidera el Comandante nazi Amon Goeth (Ralph Fiennes), un hombre cruel que disfruta ejecutando judíos.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Clara" : "Cuando la vi pense que mi monitor perdio el color"
-    }]
+    }
 },
 {
     "nombre":"Jaws",
@@ -197,7 +197,7 @@
     "genero":"Terror",
     "sinopsis":"En la costa de un pequeño pueblo del Este de los Estados Unidos, un enorme tiburón ataca a varias personas. Por temor a los nefastos efectos que este hecho podría tener sobre el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón termina con la vida de un bañista. Cuando el terror se apodera de todos, un veterano cazador de tiburones, un oceanógrafo y el jefe de la policía local se unen para intentar capturar al escualo.",
     "imagen":"https://upload.wikimedia.org/wikipedia/en/e/eb/JAWS_Movie_poster.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Close Encounters of the Third Kind",
@@ -206,7 +206,7 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"Una noche, cerca de su casa, en Indiana, Roy Neary (Richard Dreyfuss) observa en el cielo unos misteriosos objetos voladores. Desde entonces vive tan obsesionado por comprender lo que ha visto que se distancia de su esposa (Teri Garr). Encuentra apoyo en una mujer que también ha sido testigo de los mismos hechos, y juntos intentan encontrar una respuesta al misterio que ha alterado sus vidas. Al mismo tiempo, un nutrido grupo de científicos internacionales comienza a investigar las apariciones de ovnis y otros extraños fenómenos en la zona.",
     "imagen":"https://flxt.tmsimg.com/assets/p5124_p_v8_aw.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"E-T The Extraterrestrial",
@@ -215,7 +215,7 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave, al emprender el regreso, se olvida de él. Está completamente solo y tiene miedo, pero se hará amigo de un niño, que lo esconde en su casa. El pequeño y sus hermanos intentan encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que lo encuentren los científicos y la policía.",
     "imagen":"https://poptaim.com/wp-content/uploads/2020/09/E.T_MOVIE-900x600.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Jurassic Park",
@@ -224,9 +224,9 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"El multimillonario John Hammond consigue hacer realidad su sueño de clonar dinosaurios del Jurásico y crear con ellos un parque temático en una isla remota. Antes de abrirlo al público, invita a una pareja de eminentes científicos y a un matemático para que comprueben la viabilidad del proyecto. Pero las medidas de seguridad del parque no prevén el instinto de supervivencia de la madre naturaleza ni la codicia humana.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "IRORIIIIIIIIIII RO RO"
-    }]
+    }
 },
 {
     "nombre":"A.I. Artificial Intelligence",
@@ -235,7 +235,7 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"En un mundo futuro, los seres humanos conviven con sofisticados robots llamados Mecas. Los sentimientos son lo único que diferencia a los hombres de las máquinas. Pero, cuando a un robot-niño llamado David se le programa para amar, los hombres no están preparados para las consecuencias, y David se encontrará solo en un extraño y peligroso mundo.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BNWU2NzEyMDYtM2MyOS00OGM3LWFkNzAtMzRiNzE2ZjU5ZTljXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Catch Me If You Can",
@@ -244,7 +244,7 @@
     "genero":"Drama",
     "sinopsis":"Basada en una historia real. En los años sesenta, Frank W. Abagnale (Leonardo DiCaprio) era un joven y escurridizo delincuente que adoptaba diversas identidades (médico, abogado o copiloto de líneas aéreas). Carl Hanratty (Tom Hanks), un agente del FBI, tenía la misión de seguir su pista y capturarlo para llevarlo ante la justicia, pero Frank siempre iba un paso por delante de él.",
     "imagen":"https://graffica.info/wp-content/uploads/2017/03/atrapamesipuedes0201-724x1024.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"The Terminal",
@@ -253,7 +253,7 @@
     "genero":"Comedia",
     "sinopsis":"Victor Navorski, un ciudadano de un pequeño país del Este europeo, se ve involuntariamente exiliado en la terminal internacional del aeropuerto JFK de Nueva York cuando estalla una guerra civil en su tierra de origen. A raíz del conflicto, el pasaporte de Victor queda anulado y se ve obligado a quedarse en la terminal, ya que no puede pisar suelo estadounidense ni subir a ningún avión. Durante su estancia, hará de todo para sobrevivir y entablará relación con el personal que trabaja en el aeropuerto, especialmente con una bella azafata y con el estricto responsable de seguridad de la instalación. Película inspirada en el caso real de un exiliado iraní que estuvo viviendo 18 años en la terminal internacional del aeropuerto Charles De Gaulle de París.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMTY3NTExOTk0MF5BMl5BanBnXkFtZTcwNzIxMjQyMw@@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Saving Private Ryan",
@@ -262,9 +262,9 @@
     "genero":"Belica",
     "sinopsis":"Segunda Guerra Mundial, 1944. Tras el desembarco de los Aliados en Normandía, a un grupo de soldados americanos se le encomienda una peligrosa misión: poner a salvo al soldado James Ryan. Los hombres de la patrulla del capitán John Miller deben arriesgar sus vidas para encontrar a este soldado, cuyos tres hermanos han muerto en la guerra. Lo único que se sabe del soldado Ryan es que se lanzó con su escuadrón de paracaidistas detrás de las líneas enemigas.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_FMjpg_UX1000_.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "Dime que he vivido dignamente, que soy un hombre bueno."
-    }]
+    }
 },
 {
     "nombre":"The Shawshank Redemption",
@@ -273,7 +273,7 @@
     "genero":"Drama",
     "sinopsis":"Acusado del asesinato de su mujer, Andrew Dufresne (Tim Robbins), tras ser condenado a cadena perpetua, es enviado a la cárcel de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros de prisión, especialmente de Red (Morgan Freeman), el jefe de la mafia de los sobornos.",
     "imagen":"https://flxt.tmsimg.com/assets/p15987_p_v8_ai.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"The Green Mile",
@@ -282,9 +282,9 @@
     "genero":"Drama",
     "sinopsis":"Ambientada en el sur de los Estados Unidos, en plena Depresión. Paul Edgecomb es un funcionario de prisiones encargado de vigilar la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. John Coffey, un gigantesco hombre negro acusado de asesinar brutalmente a dos hermanas de nueve años, está esperando su inminente ejecución. Tras una personalidad ingenua e infantil, Coffey esconde un prodigioso don sobrenatural.",
     "imagen":"https://flxt.tmsimg.com/assets/p24429_p_v12_bf.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Emily" : "Quien no lloro con esta pelicula no tiene corazon, simple y llanamente eso."
-    }]
+    }
 },
 {
     "nombre":"The Mist",
@@ -293,7 +293,7 @@
     "genero":"Terror",
     "sinopsis":"En un pequeño pueblo de Maine, estalla de repente una violenta tormenta que termina tan bruscamente como comenzó. Entonces surge una espesa niebla que va entrando en casas y supermercados, atrapando y matando a todos los que se ven envueltos por la oscuridad.",
     "imagen":"https://static.wikia.nocookie.net/stephenkingsthemist/images/6/6e/The_Mist.jpg/revision/latest?cb=20110506180931",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Super 8",
@@ -302,7 +302,7 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"Año 1979, en una pequeña población de Ohio. Joe Lamb (Joel Courtney), un muchacho que vive en un pueblo de Ohio, acaba de perder a su madre en un accidente y vive con su padre, que es policía (Kyle Chandler). Meses después, durante el verano, Joe y sus amigos ruedan una película de zombis en Super 8 cuando contempla cómo una camioneta se estrella contra un tren de mercancías, provocando su descarrilamiento y un terrible accidente. A partir de ese momento cosas extrañas e inexplicables comienzan a suceder en el pueblo.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMjIzNjEyMzcwOF5BMl5BanBnXkFtZTcwMTkyMjE0NQ@@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"The Fourth Kind",
@@ -311,7 +311,7 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"Thriller sobrenatural ambientado en Alaska en el que una mujer investiga una serie de misteriosas desapariciones ocurridas en el lugar durante los últimos 40 años. A finales del año 2000, los pacientes de la terapeuta Abbey Tyler, bajo hipnosis, reflejaron comportamientos que sugerían encuentros con seres no humanos. Antes de dormir, todos ellos aseguraban haber visto un búho que les observaba desde fuera de la ventana. Y despertaban completamente paralizados, escuchando ruidos terroríficos que provenían de fuera de la habitación. Los recuerdos posteriores se sumían en la oscuridad. La doctora prosiguió con sus investigaciones, descubriendo que la desaparición de personas y sucesos extraños en la región se remontaba a los años 60.",
     "imagen":"https://flxt.tmsimg.com/assets/p3630349_p_v8_ae.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"The Sixth Sense",
@@ -320,7 +320,7 @@
     "genero":"Terror",
     "sinopsis":"El doctor Malcom Crowe es un conocido psicólogo infantil de Philadelphia que vive obsesionado por el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cuando conoce a Cole Sear, un aterrorizado y confuso niño de ocho años que necesita tratamiento, ve que se le presenta la oportunidad de redimirse haciendo todo lo posible por ayudarlo. Sin embargo, el doctor Crowe no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
     "imagen":"https://flxt.tmsimg.com/assets/p23611_p_v8_ah.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Signs",
@@ -329,9 +329,9 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"Graham Hess (Mel Gibson) es un pastor protestante que vive con sus dos hijos (Rory Culkin y Abigail Breslin) y con su hermano Merrill (Joaquin Phoenix), una antigua estrella del béisbol que trabaja en una gasolinera. Tras la muerte de su esposa en un accidente de tráfico, Graham pierde la fe y, en consecuencia, abandona a sus feligreses. Una mañana, al despertarse, se encuentra con que sus hijos han hecho un descubrimiento escalofriante en los campos de maíz que rodean su granja.",
     "imagen":"https://es.web.img2.acsta.net/pictures/14/03/11/11/07/349050.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "Me encanta como esta pelicula juega con la fe de las personas, una mezcla de terror y drama exquisito"
-    }]
+    }
 },
 {
     "nombre":"Men in Black",
@@ -340,9 +340,9 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"Durante muchos años los extraterrestres han vivido en la Tierra, mezclados con los seres humanos, sin que nadie lo supiese. Los Hombres de Negro son agentes especiales que forman parte de una unidad altamente secreta del gobierno; su misión consiste en controlar a los alienígenas. Dos de estos agentes (uno veterano y otro recién incorporado), cuya misión consiste en vigilar a los alienígenas que viven en Nueva York, descubren a un terrorista galáctico que pretende acabar con la Humanidad.",
     "imagen":"https://occ.a.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABWHIPNxBC1J9OLWkn6zq-NlOBryoTA6D1u02h5ZaK00E4R0DQs7QDtbBCp_6_I_CKr4A7pEJ8-K8Rt2XfOP0QLdsEY7R53yqgbji.jpg?r=4e3",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "una de las pocas peliculas que representa mi infancia, y el soundtrack es para chuparse los dedos"
-    }]
+    }
 },
 {
     "nombre":"Independence Day",
@@ -351,9 +351,9 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"En víspera del 4 de julio, unas gigantescas naves espaciales aparecen en el cielo. El estupor inicial se convierte en terror al ver cómo atacan el planeta lanzando rayos destructivos contra las mayores ciudades del mundo. La única esperanza de salvación está en manos de algunos supervivientes, que se unen planeando un ataque masivo contra los alienígenas, antes de que sea demasiado tarde.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Pancracio" : "Feliz 4 de julio"
-    }]
+    }
 },
 {
     "nombre":"Godzilla",
@@ -362,7 +362,7 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"Las pruebas nucleares realizadas por los franceses en el Pacífico provocan la aparición en el océano de un gigantesco reptil mutante, que ha sido localizado tras atacar un barco de pesca japonés. Pero lo peor es que el monstruo es anfibio y saldrá del océano para dirigirse a Nueva York, en cuyas calles causará el pánico.",
     "imagen":"https://i0.wp.com/manapop.com/wp-content/uploads/2020/02/Godzilla-header-pic.jpg?ssl=1",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"2012",
@@ -371,7 +371,7 @@
     "genero":"Accion",
     "sinopsis":"En el calendario de los mayas aparece señalado el año 2012 como la fecha en la que se producirá el fin del mundo, que irá acompañado de diversas catástrofes naturales: erupciones volcánicas, tifones, glaciares que inundarán el planeta. Cuando el escritor Jackson Curtis (John Cusack) y sus hijos regresan a casa, una intensa actividad sísmica recorre la Costa Oeste de los Estados Unidos.",
     "imagen":"https://pics.filmaffinity.com/2012-144722286-large.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"I Am Legend",
@@ -380,9 +380,9 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"Año 2012. Robert Neville (Will Smith) es el último hombre vivo que hay sobre la Tierra, pero no está solo. Los demás seres humanos se han convertido en vampiros y todos ansían beber su sangre. Durante el día vive en estado de alerta, como un cazador, y busca a los muertos vivientes mientras duermen; pero durante la noche debe esconderse de ellos y esperar el amanecer. Esta pesadilla empezó hace tres años: Neville era un brillante científico, pero no pudo impedir la expansión de un terrible virus creado por el hombre. Él ha sobrevivido porque es inmune al virus; todos los días envía mensajes por radio con la esperanza de que haya otros supervivientes, pero es inútil. Lo único que puede hacer es buscar una fórmula que le permita utilizar su sangre inmune para devolverles a los hombres su naturaleza. Pero está en inferioridad de condiciones y el tiempo se acaba.",
     "imagen":"https://flxt.tmsimg.com/assets/p170977_p_v7_ae.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "Cuando suena Redemption song al final, piel de gallina, peliculon"
-    }]
+    }
 },
 {
     "nombre":"Dumb and Dumber",
@@ -391,10 +391,10 @@
     "genero":"Comedia",
     "sinopsis":"La vida de Lloyd y Harry, dos amigos de una estupidez supina, es un auténtico desastre. El primero trabaja como chófer de una limousina, y el segundo se dedica a transportar perros. Cuando Lloyd se enamora de una chica de buena posición, que deja olvidado un maletín en el coche, los dos amigos emprenden un viaje por todo el país para devolvérselo.",
     "imagen":"https://flxt.tmsimg.com/assets/p16298_p_v8_ae.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "No se, me dijo cosas que no le prestaba atencion, no se no le preste atencion",
         "Pancracio" : "Cuando no pense que podias ser mas estupido, vienes y haces esto... Y TE REIVINDICAS TOTALMENTE"
-    }]
+    }
 },
 {
     "nombre":"Me,Myself & Irene",
@@ -403,7 +403,7 @@
     "genero":"Comedia",
     "sinopsis":"Charlie es un inocente y amable policía de Rhode Island que es todo un caballero, además de un abnegado padre soltero de tres hijos de color que su esposa tuvo tras una aventura. Pero un día Charlie, conocido por su buen carácter, no soporta más que le tomen por blando y sufre de repente un trastorno de personalidad, convirtiéndose en alguien completamente distinto, en el que sale a relucir su hiperagresivo álter ego.",
     "imagen":"https://flxt.tmsimg.com/assets/p25564_p_v8_ad.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Green Book",
@@ -412,9 +412,9 @@
     "genero":"Drama",
     "sinopsis":"Año 1962. Tony Lip (Viggo Mortensen) es un rudo italoamericano del Bronx que es contratado como chófer del virtuoso pianista negro Don Shirley (Mahershala Ali). Ambos emprenderán un viaje para una gira de conciertos por el Sur de Estados Unidos, donde Tony deberá tener presente El libro verde, una guía que indicaba los pocos establecimientos donde se aceptaba a los afroamericanos. Son dos personas que tendrán que hacer frente al racismo y los prejuicios, pero a las que el destino unirá, obligándoles a dejar de lado las diferencias para sobrevivir y prosperar en el viaje de sus vidas.",
     "imagen":"https://phantom-marca.unidadeditorial.es/912fc8b4c9d973bc88e1336eb7e9b31a/resize/1320/f/jpg/assets/multimedia/imagenes/2020/12/07/16073650714138.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "que bueno ver a Aragorn en una pelicula de drama"
-    }]
+    }
 },
 {
     "nombre":"American Psycho",
@@ -423,9 +423,9 @@
     "genero":"Drama",
     "sinopsis":"En un mundo moralmente plano en el que la ropa tiene más sentido que la piel, Patrick Bateman es un espécimen soberbiamente elaborado que cumple todos los requisitos de Master del Universo, desde el diseño de su vestuario hasta el de sus productos químicos. Es prácticamente perfecto, como casi todos en su mundo e intenta desesperadamente encajar en él. Cuando más intenta ser como cualquier otro hombre adinerado de Wall Street, más anónimo se vuelve y menos control tiene sobre sus terribles instintos y su insaciable sed de sangre, que lo arrastra a una vorágine en la que los objetos valen más que el cuerpo y el alma de una persona.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "Muy destacable la escena de cuando mata con el hacha al trajeado mientras suena Huey Lewis de fondo"
-    }]
+    }
 },
 {
     "nombre":"Se7en",
@@ -434,7 +434,7 @@
     "genero":"Thriller",
     "sinopsis":"El veterano teniente Somerset (Morgan Freeman), del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso e impulsivo detective David Mills (Brad Pitt). Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BZDgyZmY5MmItY2I3Ny00NjA4LWFhNmItMGQ4ZGJhZDk5YjU3XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Fight Club",
@@ -443,7 +443,7 @@
     "genero":"Drama",
     "sinopsis":"Un joven hastiado de su gris y monótona vida lucha contra el insomnio. En un viaje en avión conoce a un carismático vendedor de jabón que sostiene una teoría muy particular: el perfeccionismo es cosa de gentes débiles; sólo la autodestrucción hace que la vida merezca la pena. Ambos deciden entonces fundar un club secreto de lucha, donde poder descargar sus frustaciones y su ira, que tendrá un éxito arrollador.",
     "imagen":"https://flxt.tmsimg.com/assets/p23069_p_v8_aa.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"The curious case of Benjamin Button",
@@ -452,7 +452,7 @@
     "genero":"Drama",
     "sinopsis":"Un hombre (Brad Pitt) nace con ochenta años y va rejuveneciendo a medida que pasa el tiempo; es decir, en lugar de cumplir años los descumple. Esta es la historia de un hombre extraordinario, de la gente que va conociendo, de sus amores y amistades, pero sobre todo de su relación con Daisy (Cate Blanchett), la mujer de su vida.",
     "imagen":"https://flxt.tmsimg.com/assets/p170920_p_v8_am.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"American Beauty",
@@ -461,7 +461,7 @@
     "genero":"Drama",
     "sinopsis":"Lester Burnham (Kevin Spacey), un cuarentón en crisis, cansado de su trabajo y de su mujer Carolyn (Annette Bening), despierta de su letargo cuando conoce a la atractiva amiga (Mena Suvari) de su hija (Thora Birch), a la que intentará impresionar a toda costa.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"1917",
@@ -470,7 +470,7 @@
     "genero":"Belica",
     "sinopsis":"En lo más crudo de la Primera Guerra Mundial, dos jóvenes soldados británicos, Schofield (George MacKay) y Blake (Dean-Charles Chapman) reciben una misión aparentemente imposible. En una carrera contrarreloj, deberán atravesar el territorio enemigo para entregar un mensaje que evitará un mortífero ataque contra cientos de soldados, entre ellos el propio hermano de Blake.",
     "imagen":"https://pics.filmaffinity.com/1917-782426285-large.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"The Naked Gun: From the Files of Police Squad!",
@@ -479,7 +479,7 @@
     "genero":"Comedia",
     "sinopsis":"Tras quedar gravemente herido su compañero Nordberg en un tiroteo protagonizado por una banda de narcotraficantes, el incompetente teniente Frank Drebin busca al jefe de la organización para vengarse. Sospecha del magnate naviero Vincent Ludwig, pero no tiene pruebas para inculparlo. Sin embargo, de manera inesperada, consigue la ayuda de Jane Spencer, una antigua novia de Ludwig.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BODk1ZWM4ZjItMjFhZi00MDMxLTgxNmYtODFhNWZlZTkwM2UwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Airplane!",
@@ -488,7 +488,7 @@
     "genero":"Comedia",
     "sinopsis":"El vuelo 209 de la Trans American sale de Los Ángeles con destino a Chicago. Entre el pasaje se encuentran una serie de curiosos personajes. Entre ellos, un ex-piloto de combate que, en pleno vuelo, se verá obligado a hacerse con el mando del avión comercial, tras quedar los pilotos indispuestos por una comida en mal estado.",
     "imagen":"https://flxt.tmsimg.com/assets/p1671_p_v8_ae.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Scary Movie",
@@ -497,7 +497,7 @@
     "genero":"Comedia",
     "sinopsis":"Una bella estudiante muere asesinada. Un grupo de desorientados adolescentes descubre que entre ellos hay un asesino. La heroína Cyndi Campbell y su grupo de despistados amigos se verán aterrorizados por un singular psicópata enmascarado que pretende vengarse de ellos, después de que lo atropellaran por accidente el pasado Halloween.",
     "imagen":"https://i.ytimg.com/vi/HTLPULt0eJ4/maxresdefault.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"The Lord of the Rings: The Fellowship of the Ring",
@@ -506,9 +506,9 @@
     "genero":"Aventuras",
     "sinopsis":"En la Tierra Media, el Señor Oscuro Sauron ordenó a los Elfos que forjaran los Grandes Anillos de Poder. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Pero Saurón también forjó, en secreto, el Anillo Único, que tiene el poder de esclavizar toda la Tierra Media. Con la ayuda de sus amigos y de valientes aliados, el joven hobbit Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el malvado Sauron ordena la persecución del grupo, compuesto por Frodo y sus leales amigos hobbits, un mago, un hombre, un elfo y un enano. La misión es casi suicida pero necesaria, pues si Sauron con su ejército de orcos lograra recuperar el Anillo, sería el final de la Tierra Media.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : " YOUUUUUU SHAAAALLLLL NOOOOOOOOOOOOT PAAAAAAASSSSSSSSSSSSSSS!!!!!!!!"
-    }]
+    }
 },
 {
     "nombre":"Home Alone",
@@ -517,7 +517,7 @@
     "genero":"Comedia",
     "sinopsis":"Kevin McAllister es un niño de ocho años, miembro de una familia numerosa, que accidentalmente se queda abandonado en su casa cuando toda la familia se marcha a pasar las vacaciones a Francia. Kevin aprende a valerse por sí mismo e incluso a protegerse de Harry y Marv, dos bribones que se proponen asaltar todas las casas cerradas de su vecindario. En cuanto su madre lo echa en falta, regresa apresuradamente a Chicago para recuperar a su hijo.",
     "imagen":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B9CACD4D5F953ABACEC2E6B19F1959C633150655E91BFD7D320CD9464B915E39/scale?width=1200&aspectRatio=1.78&format=jpeg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Bicentennial Man",
@@ -526,7 +526,7 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"En la primera década del nuevo milenio, con avances tecnológicos que engullen la soberanía de la compasión humana, Richard Martin (Sam Neill) compra un regalo, un nuevo robot NDR-114. El hijo más pequeño de la familia le pone de nombre Andrew (Robin Williams). Andrew es adquirido como electrodoméstico casero programado para realizar tareas menores. A medida que Andrew empieza a experimentar emociones y pensamiento creativo, la familia Martin descubre pronto que no tienen un robot común y corriente.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BYTU4Nzg5YmItNzE0Yy00Y2VmLWI3OTYtNTFjODEzMDE0YTI4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Harry Potter and the Philosopher's Stone",
@@ -535,7 +535,7 @@
     "genero":"Fantastico",
     "sinopsis":"El día en que cumple once años, Harry Potter se entera de que es hijo de dos destacados hechiceros, de los que ha heredado poderes mágicos. En la escuela Hogwarts de Magia y Hechicería, donde se educa con otros niños que también tienen poderes especiales, aprenderá todo lo necesario para ser mago.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Austin Powers: International Man of Mystery",
@@ -544,7 +544,7 @@
     "genero":"Comedia",
     "sinopsis":"Primera aventura de Austin Powers (Mike Myers), un peculiar y atractivo espía de los años sesenta, cuyo principal enemigo es el doctor Maligno (interpretado también por Myers). Tras ser ambos sometidos a un proceso de congelación, se despiertan treinta años después en una sociedad completamente distinta a la que conocían. Sin embargo, ellos siguen siendo los mismos.",
     "imagen":"https://musicart.xboxlive.com/7/77701100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Shrek",
@@ -553,7 +553,7 @@
     "genero":"Animacion",
     "sinopsis":"Hace mucho tiempo, en una lejanísima ciénaga, vivía un feroz ogro llamado Shrek. De repente, un día, su soledad se ve interrumpida por una invasión de sorprendentes personajes. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros seres que han sido deportados de su tierra por el malvado Lord Farquaad. Para salvar su territorio, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la bella princesa Fiona acceda a ser la novia del Lord. En tan importante misión le acompaña un divertido burro, dispuesto a hacer cualquier cosa por Shrek: todo, menos guardar silencio.",
     "imagen":"https://static.wikia.nocookie.net/doblaje/images/6/69/Shrekban.png/revision/latest?cb=20200731225428&path-prefix=es",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Wayne's World",
@@ -562,7 +562,7 @@
     "genero":"Comedia",
     "sinopsis":"Cuando un importante ejecutivo de la televisión ofrece a los alocados y poco convencionales Wayne y a Garth un jugoso contrato para hacer en su cadena su peculiar show nocturno, ambos no pueden dar crédito a su suerte. Pero el camino hacia el éxito es muy tortuoso, está lleno de peligros, tentaciones y fiestas salvajes. ¿Podrá Wayne ganar el cariño de la diosa del rock Cassandra? ¿Será Garth capaz de “mojar” con la chica de sus sueños en la tienda de donuts?",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMDAyNDY3MjUtYmJjYS00Zjc5LTlhM2MtNzgzYjNlOWVkZjkzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Tenacious D: The Pick of Destiny",
@@ -571,9 +571,9 @@
     "genero":"Comedia",
     "sinopsis":"En 1994, tuvieron lugar en Los Ángeles dos acontecimientos que sacudieron la tierra: el terremoto de Northridge y el nacimiento de Tenacious D, la banda liderada por Jack Black y Kyle Gass. Los dos se conocieron cuando eran miembros de la Actor’s Gang, una compañía de teatro de Los Ángeles fundada por Tim Robbins, y allí fue donde descubrieron su amor por el rock & roll. Desde su primera actuación en el Al’s Bar de Los Ángeles, donde interpretaron su única canción, Tribute, hasta su revelación como la Mejor Banda de la Tierra, The D, han entusiasmado a todo el que ha podido escucharlos.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMTUyMDA3OTc4MV5BMl5BanBnXkFtZTcwNzE5NjkzMQ@@._V1_.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Hernan" : "Kickapoo, Master exploder, la cancion vs el diablo protagonizado por Dave Grohl, que mas se puede pedir?"
-    }]
+    }
 },
 {
     "nombre":"School of rock",
@@ -582,7 +582,7 @@
     "genero":"Comedia",
     "sinopsis":"Dewey Finn (Jack Black), un guitarrista con delirios de grandeza, es expulsado de su banda. La falta de recursos económicos lo obliga a buscar trabajo, cosa nada fácil, por lo que, finalmente, decide suplantar a un profesor sustituto en una escuela privada. A los alumnos de 5º grado intentará enseñarles el rock & roll de alto voltaje. Además, entre los niños está Yuki, un guitarrista prodigio de nueve años que puede ayudarle a ganar la competición de bandas de música y, de paso, solucionar sus problemas económicos.",
     "imagen":"https://api.time.com/wp-content/uploads/2014/08/the-school-of-rock_a89fdaf8.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Flashdance",
@@ -591,7 +591,7 @@
     "genero":"Drama",
     "sinopsis":"Alex Owens es una joven huérfana que sueña con llegar a ser un día una bailarina profesional. Pero para poder vivir el día a día y, además, pagar sus clases de baile, durante el día trabaja como soldadora en una fábrica y de noche bailando en un club nocturno.",
     "imagen":"https://flxt.tmsimg.com/assets/p6845_p_v8_au.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Jacob's Ladder",
@@ -600,7 +600,7 @@
     "genero":"Drama",
     "sinopsis":"Narra las secuelas que sufre un soldado que participó en la guerra de Vietnam. El cartero neoyorkino Jacob Singer intenta evitar que los jirones de su vida terminen de deshilacharse. Lo acosan incesantes flashbacks de su primer matrimonio, de su hijo muerto y de su periodo de servicio en Vietnam. En su nueva esposa busca un asidero hacia la lucidez, pero la línea entre la realidad y el delirio se hace cada vez más delgada.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BZTg5MTMyNjktNTZhOC00MGFlLWFlMTMtZGU2MjE3OWQ3NjJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Up",
@@ -609,7 +609,7 @@
     "genero":"Animacion",
     "sinopsis":"Carl Fredricksen es un viudo vendedor de globos de 78 años que, finalmente, consigue llevar a cabo el sueño de su vida: enganchar miles de globos a su casa y salir volando rumbo a América del Sur. Pero ya estando en el aire y sin posibilidad de retornar Carl descubre que viaja acompañado de Russell, un explorador que tiene ocho años y un optimismo a prueba de bomba.",
     "imagen":"https://lumiere-a.akamaihd.net/v1/images/p_up_19753_e6f911e3.jpeg?region=0%2C0%2C540%2C810",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Soul",
@@ -618,7 +618,7 @@
     "genero":"Animacion",
     "sinopsis":"¿Alguna vez te has preguntado de dónde provienen tu pasión, tus sueños y tus intereses? ¿Qué es lo que te hace ser... tú? Pixar te lleva en un viaje desde las calles de Nueva York a los reinos cósmicos para descubrir las respuestas a las preguntas más importantes de la vida.",
     "imagen":"https://lumiere-a.akamaihd.net/v1/images/p_soul_disneyplus_v2_20907_764da65d.jpeg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"The Incredibles",
@@ -627,7 +627,7 @@
     "genero":"Animacion",
     "sinopsis":"Bob Parr era uno de los más grandes superhéroes del mundo (también se le conocía como Mr. Increíble), salvaba vidas y luchaba contra villanos a diario. Han pasado 15 años, y Bob y su mujer (una famosa ex-superheroína por derecho propio) han adoptado una identidad civil y se han retirado a la periferia para llevar una vida normal con sus tres hijos. Bob se dedica a comprobar los plazos de las reclamaciones de seguros y lucha contra el aburrimiento y los michelines. Está deseando volver a entrar en acción, así que cuando recibe una misteriosa comunicación que le ordena dirigirse a una remota isla para cumplir una misión de alto secreto, no se lo piensa dos veces.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Cocoon",
@@ -636,7 +636,7 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"Un grupo de ancianos que viven en una residencia descubren la fuente de la eterna juventud. El único problema es que el lugar mágico pertenece a un grupo de extraterrestres, y desconocen si sus intenciones son amigables. Un espléndido reparto y acertadas dosis de sentimentalismo hicieron de este drama fantástico un gran éxito de taquilla.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BYzFiMWRiZTItMjViNy00ZjUzLTg1MTMtNTU4OGRlNzA2MTc2L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"The Da Vinci Code",
@@ -645,7 +645,7 @@
     "genero":"Thriller",
     "sinopsis":"El catedrático y afamado simbologista Robert Langdon (Tom Hanks) se ve obligado a acudir una noche al Museo del Louvre, cuando el asesinato de un restaurador deja tras de sí un misterioso rastro de símbolos y pistas. Con la ayuda de la criptógrafa de la policía Sophie Neveu (Audrey Tautou) y poniendo en juego su propia vida, Langdon descubre que la obra de Leonardo Da Vinci esconde una serie de misterios que apuntan a una sociedad secreta encargada de custodiar un antiguo secreto que ha permanecido oculto durante dos mil años.",
     "imagen":"https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/230784_DA%20VINCI%20CODE_1400x2100_Eng.jpg?itok=RRnkgHqP",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Good morning, Vietnam",
@@ -654,7 +654,7 @@
     "genero":"Belica",
     "sinopsis":"Vietnam. 1965. Un militar pinchadiscos de la radio, Adrian Cronauer, es enviado a Saigón para trabajar en la emisora del ejército norteamericano. En contraste con sus aburridos antecesores, Cronauer es pura dinamita: sus comentarios irreverentes, tacos, improperios y sus críticas al vicepresidente le hacen ganarse el aprecio de las tropas. Sin embargo, su superior, el teniente Hauk, no es de la misma opinión.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BOWRhZGQ5ODQtMzUzNi00M2I4LThmZmUtYmQ0NDQzMTkxMWQ0XkEyXkFqcGdeQXVyMzI0NDc4ODY@._V1_FMjpg_UX1000_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Dead Poets Society",
@@ -663,9 +663,9 @@
     "genero":"Drama",
     "sinopsis":"En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado del carpe diem -aprovechar el momento- y la importancia vital de luchar por alcanzar los sueños, gracias al Sr. Keating, un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Josefina" : "Solamente voy a decir: Carpe Diem."
-    }]
+    }
 },
 {
     "nombre":"The Truman Show",
@@ -674,7 +674,7 @@
     "genero":"Comedia",
     "sinopsis":"Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, de repente, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo. Todos sus amigos son actores, toda su ciudad es un plató, toda su vida está siendo filmada y emitida como el reality más ambicioso de la historia. ",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Jumanji",
@@ -683,7 +683,7 @@
     "genero":"Fantastico",
     "sinopsis":"Alan Parris queda atrapado durante 25 años en un juego de mesa mágico y muy antiguo llamado Jumanji. Cuando, por fin, es liberado por dos niños, una manada de animales exóticos queda también en libertad.",
     "imagen":"https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/Jumanji_onesheet_rating_1.jpg?itok=Y0PEK8IA",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Patch Adams",
@@ -692,7 +692,7 @@
     "genero":"Comedia",
     "sinopsis":"Basada en una historia real, la película es la biografía del médico Patch Adams (Robin Williams), que revolucionó a la comunidad médica oficial aplicando singulares terapias consistentes en hacer reír y proporcionar afecto a los pacientes enfermos de cáncer.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BNzM4Y2FlNzYtZmY5Yy00NzU4LTk1ODItY2NjYWYzYzUyZGM3L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Eternal Sunshine of the Spotless Mind",
@@ -701,7 +701,7 @@
     "genero":"Drama",
     "sinopsis":"Joel (Jim Carrey) recibe un terrible golpe cuando descubre que su novia Clementine (Kate Winslet) ha hecho que borren de su memoria todos los recuerdos de su tormentosa relación. Desesperado, se pone en contacto con el creador del proceso, el Dr. Howard Mierzwiak, para que borre a Clementine de su memoria. Pero cuando los recuerdos de Joel empiezan a desaparecer de pronto redescubre su amor por Clementine. Desde lo más profundo de su cerebro intentará parar el proceso.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Rambo: First Blood",
@@ -710,7 +710,7 @@
     "genero":"Accion",
     "sinopsis":"Cuando John Rambo, un veterano boina verde, va a visitar a un viejo compañero de armas, se entera de que ha muerto víctima de las secuelas de la guerra. Algunos días después, la policía lo detiene por vagabundo y se ensaña con él. Entonces recuerda las torturas que sufrió en Vietnam y reacciona violentamente.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BODBmOWU2YWMtZGUzZi00YzRhLWJjNDAtYTUwNWVkNDcyZmU5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Rocky",
@@ -719,7 +719,7 @@
     "genero":"Drama",
     "sinopsis":"Rocky Balboa es un desconocido boxeador a quien se le ofrece la posibilidad de pelear por el título mundial de los pesos pesados. Con una gran fuerza de voluntad, Rocky se prepara concienzudamente para el combate y también para los cambios que acabarán produciéndose en su vida.",
     "imagen":"https://es.web.img3.acsta.net/pictures/14/05/12/10/11/064918.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Gran Torino",
@@ -728,7 +728,7 @@
     "genero":"Drama",
     "sinopsis":"Walt Kowalski (Clint Eastwood), un veterano de la guerra de Corea (1950-1953), es un obrero jubilado del sector del automóvil que ha enviudado recientemente. Su máxima pasión es cuidar de su más preciado tesoro: un coche Gran Torino de 1972. Es un hombre inflexible y cascarrabias, al que le cuesta trabajo asimilar los cambios que se producen a su alrededor, especialmente la llegada de multitud de inmigrantes asiáticos a su barrio. Sin embargo, las circustancias harán que se vea obligado a replantearse sus ideas.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_FMjpg_UX1000_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Alien",
@@ -737,7 +737,7 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"De regreso a la Tierra, la nave de carga Nostromo interrumpe su viaje y despierta a sus siete tripulantes. El ordenador central, MADRE, ha detectado la misteriosa transmisión de una forma de vida desconocida, procedente de un planeta cercano aparentemente deshabitado. La nave se dirige entonces al extraño planeta para investigar el origen de la comunicación.",
     "imagen":"https://flxt.tmsimg.com/assets/p2571_p_v8_al.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Gladiator",
@@ -746,7 +746,7 @@
     "genero":"Accion",
     "sinopsis":"En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio (Richard Harris) decide transferir el poder a Máximo (Russell Crowe), bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo (Joaquin Phoenix), que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"American Gangster",
@@ -755,7 +755,7 @@
     "genero":"Thriller",
     "sinopsis":"Nueva York, 1968. Frank Lucas (Denzel Washington) es el taciturno chófer de un importante mafioso negro de Harlem. Cuando su jefe muere inesperadamente, Frank aprovecha la oportunidad para construir su propio imperio. Gracias a su talento, se convierte no sólo en el principal narcotraficante de la ciudad, inundando las calles con productos de mejor calidad y precio, sino también en un hombre público muy respetado. Richie Roberts (Russell Crowe), un policía incorruptible marginado por su honradez que conoce bien las calles, se da cuenta de que una persona ajena a los clanes trepa por la escalera del poder. Tanto Roberts como Lucas comparten un estricto código ético que les aparta de los demás y los convierte en dos figuras solitarias en lados opuestos de la ley. Cuando se encuentren, el enfrentamiento entre ellos será inevitable",
     "imagen":"https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/11/w1280/pn4A89Rdv0fI7KuugdhSbgfJZs7.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Predator",
@@ -764,7 +764,7 @@
     "genero":"Accion",
     "sinopsis":"Un grupo de mercenarios es contratado por la CIA para rescatar a unos pilotos que han sido apresados por la guerrilla en la selva centroamericana. La misión es un éxito, pero durante el viaje de regreso se dan cuenta de que algo misterioso e invisible está dándoles caza uno a uno. Ese algo resulta ser un cazador alienígena que se queda con las calaveras de sus víctimas como trofeos.",
     "imagen":"https://m.media-amazon.com/images/I/51H4TX6K8DL._AC_SY580_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"The Terminator",
@@ -773,9 +773,9 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"Los Ángeles, año 2029. Las máquinas dominan el mundo. Los rebeldes que luchan contra ellas tienen como líder a John Connor, un hombre que nació en los años ochenta. Para acabar con la rebelión, las máquinas deciden enviar al pasado a un robot -Terminator- cuya misión será eliminar a Sarah Connor, la madre de John, e impedir así su nacimiento.",
     "imagen":"https://i.ytimg.com/vi/5mhjMS_cO0c/maxresdefault.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "Hasta la vista, baby"
-    }]
+    }
 },
 {
     "nombre":"Avatar",
@@ -784,7 +784,7 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"Año 2154. Jake Sully (Sam Worthington), un ex-marine condenado a vivir en una silla de ruedas, sigue siendo, a pesar de ello, un auténtico guerrero. Precisamente por ello ha sido designado para ir a Pandora, donde algunas empresas están extrayendo un mineral extraño que podría resolver la crisis energética de la Tierra. Para contrarrestar la toxicidad de la atmósfera de Pandora, se ha creado el programa Avatar, gracias al cual los seres humanos mantienen sus conciencias unidas a un avatar: un cuerpo biológico controlado de forma remota que puede sobrevivir en el aire letal. Esos cuerpos han sido creados con ADN humano, mezclado con ADN de los nativos de Pandora, los Na'vi. Convertido en avatar, Jake puede caminar otra vez. Su misión consiste en infiltrarse entre los Na'vi, que se han convertido en el mayor obstáculo para la extracción del mineral. Pero cuando Neytiri, una bella Na'vi (Zoe Saldana), salva la vida de Jake, todo cambia: Jake, tras superar ciertas pruebas, es admitido en su clan. Mientras tanto, los hombres esperan los resultados de la misión de Jake.",
     "imagen":"https://lumiere-a.akamaihd.net/v1/images/p_avatar_de27b20f.jpeg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Taxi Driver",
@@ -793,7 +793,7 @@
     "genero":"Drama",
     "sinopsis":"Para sobrellevar el insomnio crónico que sufre desde su regreso de Vietnam, Travis Bickle (Robert De Niro) trabaja como taxista nocturno en Nueva York. Es un hombre insociable que apenas tiene contacto con los demás, se pasa los días en el cine y vive prendado de Betsy (Cybill Shepherd), una atractiva rubia que trabaja como voluntaria en una campaña política. Pero lo que realmente obsesiona a Travis es comprobar cómo la violencia, la sordidez y la desolación dominan la ciudad. Y un día decide pasar a la acción.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Boogie Nights",
@@ -802,7 +802,7 @@
     "genero":"Drama",
     "sinopsis":"A finales de los 70, Jack Horner, un director de cine porno que considera su trabajo una forma de arte descubre a Eddie Adams, un joven ingenuo que desea triunfar y que tiene unas características físicas muy adecuadas para ese tipo de cine. Eddie cambia su nombre por el de Dirk Diggler, se adapta inmediatamente a nuevo estilo de vida y pronto se convierte en una gran estrella del porno.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BY2E2YWYxY2QtZmJmZi00MjJlLWFiYWItZTk5Y2IyMWQ1ZThhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Magnolia",
@@ -811,7 +811,7 @@
     "genero":"Drama",
     "sinopsis":"La película consta de nueve tramas paralelas ambientadas en el Valle de San Fernando, en Los Ángeles: un niño prodigio, el presentador de un concurso de televisión, un ex-niño prodigio, un moribundo, su hijo perdido, la mujer y el enfermero del moribundo. Son historias aparentemente independientes, pero que guardan entre sí una extraña relación.",
     "imagen":"https://images.moviesanywhere.com/dd1be13d610f86adf98b7d6e7a6f3a0b/1e7e739a-bb21-4f7c-badf-59b132ee123f.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Forrest Gump",
@@ -820,7 +820,7 @@
     "genero":"Comedia",
     "sinopsis":"Forrest Gump (Tom Hanks) sufre desde pequeño un cierto retraso mental. A pesar de todo, gracias a su tenacidad y a su buen corazón será protagonista de acontecimientos cruciales de su país durante varias décadas. Mientras pasan por su vida multitud de cosas en su mente siempre está presente la bella Jenny (Robin Wright), su gran amor desde la infancia, que junto a su madre será la persona más importante en su vida.",
     "imagen":"https://pics.filmaffinity.com/Forrest_Gump-598998346-large.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Cast Away",
@@ -829,9 +829,9 @@
     "genero":"Aventuras",
     "sinopsis":"Chuck Noland, un ejecutivo de la empresa multinacional de mensajería FedEx, se ve apartado de su cómoda vida y de su prometida a causa de un accidente de avión que lo deja aislado de la civilización en una remota isla tropical en medio del océano. Tras cuatro años de lucha por la supervivencia, completamente solo en la isla, Chuck aprende todas las técnicas de subsistencia mientras sufre la tortura de la soledad. La solución: arriesgar la vida adentrándose mar adentro.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BN2Y5ZTU4YjctMDRmMC00MTg4LWE1M2MtMjk4MzVmOTE4YjkzXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_FMjpg_UX1000_.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Maximiliano" : "WIIIIIIIIIIIIIILSOOOOOOOOOOOOOOOOOOOOON"
-    }]
+    }
 },
 {
     "nombre":"Hereditary",
@@ -840,7 +840,7 @@
     "genero":"Terror",
     "sinopsis":"Cosas extrañas comienzan a suceder en casa de los Graham tras la muerte de la abuela y matriarca, que deja en herencia su casa a su hija Annie. Annie Graham, una galerista casada y con dos hijos, no tuvo una infancia demasiado feliz junto a su madre, y cree que la muerte de ésta puede hacer que pase página. Pero todo se complica cuando su hija menor comienza a ver figuras fantasmales, que también empiezan a aparecer ante su hermano.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_FMjpg_UX1000_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Midsommar",
@@ -849,7 +849,7 @@
     "genero":"Terror",
     "sinopsis":"Una pareja estadounidense que no está pasando por su mejor momento acude con unos amigos al Midsommar, un festival de verano que se celebra cada 90 años en una aldea remota de Suecia. Lo que comienza como unas vacaciones de ensueño en un lugar en el que el sol no se pone nunca, poco a poco se convierte en una oscura pesadilla cuando los misteriosos aldeanos les invitan a participar en sus perturbadoras actividades festivas.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"The Wolf of Wall Street",
@@ -858,7 +858,7 @@
     "genero":"Comedia",
     "sinopsis":"Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort (Leonardo DiCaprio). A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de “El lobo de Wall Street”. Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"The Irishman",
@@ -867,7 +867,7 @@
     "genero":"Thriller",
     "sinopsis":"Frank Sheeran fue un veterano de la Segunda Guerra Mundial, estafador y sicario que trabajó con algunas de las figuras más destacadas del siglo XX. 'El irlandés' es la crónica de uno de los grandes misterios sin resolver del país: la desaparición del legendario sindicalista Jimmy Hoffa. Un gran viaje por los turbios entresijos del crimen organizado; sus mecanismos internos, sus rivalidades y su conexión con la política. Adaptación del libro I Heard You Paint Houses, de Charles Brandt, a cargo del guionista Steven Zaillian (La lista de Schindler, American Gangster).",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Apocalypse Now",
@@ -876,7 +876,7 @@
     "genero":"Thriller",
     "sinopsis":"Durante la guerra de Vietnam, al joven Capitán Willard, un oficial de los servicios de inteligencia del ejército estadounidense, se le ha encomendado entrar en Camboya con la peligrosa misión de eliminar a Kurtz, un coronel renegado que se ha vuelto loco. El capitán deberá ir navegar por el río hasta el corazón de la selva, donde parece ser que Kurtz reina como un buda despótico sobre los miembros de la tribu Montagnard, que le adoran como a un dios.",
     "imagen":"https://pics.filmaffinity.com/Apocalypse_Now-630974887-large.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"The Departed",
@@ -885,7 +885,7 @@
     "genero":"Thriller",
     "sinopsis":"El Departamento de Policía de Massachussets se enfrenta a la mayor banda de crimen organizado de la ciudad de Boston. La estrategia consiste en acabar desde dentro con Frank Costello, el poderoso jefe de la mafia irlandesa (Jack Nicholson). El encargado de infiltrarse en la banda es un joven novato, Billy Costigan (Leonardo DiCaprio). Mientras Billy intenta ganarse la confianza de Costello, otro joven policía, Colin Sullivan (Matt Damon), sube rápidamente de categoría y ocupa un puesto en la unidad de Investigaciones Especiales, grupo de élite cuya misión también es acabar con Costello. Lo que nadie sabe es que Colin es un topo infiltrado en la policía por el propio Costello.",
     "imagen":"https://i.ebayimg.com/images/g/xZMAAOSwv5BghuO0/s-l500.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"One Flew Over the Cuckoo's Nest",
@@ -894,7 +894,7 @@
     "genero":"Drama",
     "sinopsis":"Randle McMurphy (Jack Nicholson), un hombre condenado por asalto, y un espíritu libre que vive contracorriente, es recluido en un hospital psiquiátrico. La inflexible disciplina del centro acentúa su contagiosa tendencia al desorden, que acabará desencadenando una guerra entre los pacientes y el personal de la clínica con la fría y severa enfermera Ratched (Louise Fletcher) a la cabeza. La suerte de cada paciente del pabellón está en juego.",
     "imagen":"https://m.media-amazon.com/images/I/81a+dfKdgVL._AC_SL1500_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Batman",
@@ -903,9 +903,9 @@
     "genero":"Fantastico",
     "sinopsis":"Cinta basada en el cómic homónimo. La oscura y peligrosa ciudad de Gotham tan sólo se halla protegida por su corrupto cuerpo de policía. A pesar de los esfuerzos del fiscal del distrito Harvey Dent y el comisionado de policía Jim Gordon, la ciudad es cada vez más insegura hasta que aparece Batman, el Señor de la Noche. La reputada periodista Vicky Vale intentará descubrir el secreto que se oculta tras el hombre murciélago.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BOTgxMjIyZmMtOTNiMC00YjE3LWJlMWUtZDliZjViMGM3MjM4XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "No le puedes pegar a alguien con lentes"
-    }]
+    }
 },
 {
     "nombre":"Mars Attacks!",
@@ -914,9 +914,9 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"Parodia de los filmes de ciencia ficción de los años 50. Unos platillos volantes procedentes de Marte sobrevuelan todas las capitales del mundo. La población, aterrada, espera conocer sus intenciones. Al presidente de los Estados Unidos, su asesor científico le asegura que serán absolutamente pacíficas. Sin embargo, sus asesores militares le aconsejan que aniquile a los marcianos antes de que sea demasiado tarde.",
     "imagen":"https://flxt.tmsimg.com/assets/p18776_p_v8_ag.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "Una pelicula un tanto bastante bizarra pero muy funcional para mi gusto, el final con Tom Jones es epico"
-    }]
+    }
 },
 {
     "nombre":"Big Fish",
@@ -925,7 +925,7 @@
     "genero":"Drama",
     "sinopsis":"William Bloom (Billy Crudup) no tiene muy buena relación con su padre (Albert Finney), pero tras enterarse de que padece una enfermedad terminal, regresa a su hogar para estar a su lado en sus últimos momentos. Una vez más, William se verá obligado a escucharlo mientras cuenta las interminables historias de su juventud. Pero, en esta ocasión, tratará de averiguar cosas que le permitan conocer mejor a su padre, aunque para ello tendrá que separar claramente realidad y fantasía, elementos que aparecen siempre mezclados en los relatos de su progenitor.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BZTNlNTQzMGEtYjU4Yi00MzEzLThmMTQtNmM0NzcxZWI1MTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Shutter Island",
@@ -934,7 +934,7 @@
     "genero":"Thriller",
     "sinopsis":"En el verano de 1954, los agentes judiciales Teddy Daniels (DiCaprio) y Chuck Aule (Ruffalo) son destinados a una remota isla del puerto de Boston para investigar la desaparición de una peligrosa asesina (Mortimer) que estaba recluida en el hospital psiquiátrico Ashecliffe, un centro penitenciario para criminales perturbados dirigido por el siniestro doctor John Cawley (Kingsley). Pronto descubrirán que el centro guarda muchos secretos y que la isla esconde algo más peligroso que los pacientes. Thriller psicológico basado en la novela homónima de Dennis Lehane (autor de Mystic River y Gone Baby Gone).",
     "imagen":"https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Memento",
@@ -943,9 +943,9 @@
     "genero":"Thriller",
     "sinopsis":"La memoria de Leonard, un investigador de una agencia de seguros, está irreversiblemente dañada debido a un golpe sufrido en la cabeza cuando intentaba evitar el asesinato de su mujer: éste es el último hecho que recuerda del pasado. La memoria reciente la ha perdido: los hechos cotidianos desaparecen de su mente en unos minutos. Así pues, para investigar e intentar vengar el asesinato de su esposa tiene que recurrir a la ayuda de una cámara instantánea y a las notas tatuadas en su cuerpo.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-    "comentarios" : [{
+    "comentarios" : {
         "Sjalok" : "Tipica pelicula increible de Nolan en donde el final de la pelicula queda a interpretacion de cada persona."
-    }]
+    }
 },
 {
     "nombre":"Inception",
@@ -954,7 +954,7 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"Dom Cobb (DiCaprio) es un experto en el arte de apropiarse, durante el sueño, de los secretos del subconsciente ajeno. La extraña habilidad de Cobb le ha convertido en un hombre muy cotizado en el mundo del espionaje, pero también lo ha condenado a ser un fugitivo y, por consiguiente, a renunciar a llevar una vida normal. Su única oportunidad para cambiar de vida será hacer exactamente lo contrario de lo que ha hecho siempre: la incepción, que consiste en implantar una idea en el subconsciente en lugar de sustraerla. Sin embargo, su plan se complica debido a la intervención de alguien que parece predecir cada uno de sus movimientos, alguien a quien sólo Cobb podrá descubrir.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Interstellar",
@@ -963,7 +963,7 @@
     "genero":"Ciencia Ficcion",
     "sinopsis":"Al ver que la vida en la Tierra está llegando a su fin, un grupo de exploradores dirigidos por el piloto Cooper (McConaughey) y la científica Amelia (Hathaway) emprende una misión que puede ser la más importante de la historia de la humanidad: viajar más allá de nuestra galaxia para descubrir algún planeta en otra que pueda garantizar el futuro de la raza humana.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"La vita è bella",
@@ -972,7 +972,7 @@
     "genero":"Comedia",
     "sinopsis":"En 1939, a punto de estallar la Segunda Guerra Mundial (1939-1945), el extravagante Guido llega a Arezzo, en la Toscana, con la intención de abrir una librería. Allí conoce a la encantadora Dora y, a pesar de que es la prometida del fascista Rodolfo, se casa con ella y tiene un hijo. Al estallar la guerra, los tres son internados en un campo de exterminio, donde Guido hará lo imposible para hacer creer a su hijo que la terrible situación que están padeciendo es tan sólo un juego.",
     "imagen":"https://pics.filmaffinity.com/La_vida_es_bella-611574521-large.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Sen to Chihiro no kamikakushi",
@@ -981,7 +981,7 @@
     "genero":"Animacion",
     "sinopsis":"Chihiro es una niña de diez años que viaja en coche con sus padres. Después de atravesar un túnel, llegan a un mundo fantástico, en el que no hay lugar para los seres humanos, sólo para los dioses de primera y segunda clase. Cuando descubre que sus padres han sido convertidos en cerdos, Chihiro se siente muy sola y asustada.",
     "imagen":"https://es.web.img2.acsta.net/pictures/21/05/11/13/47/5979708.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Parasite",
@@ -990,7 +990,7 @@
     "genero":"Drama",
     "sinopsis":"Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
     "imagen":"https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 },
 {
     "nombre":"Nuovo Cinema Paradiso",
@@ -999,6 +999,6 @@
     "genero":"Drama",
     "sinopsis":"'Cinema Paradiso' es una historia de amor por el cine. Narra la historia de Salvatore, un niño de un pueblecito italiano en el que el único pasatiempo es ir al cine. Subyugado por las imágenes en movimiento, el chico cree ciegamente que el cine es magia; pero, un día, Alfredo, el operador, accede a enseñarle al pequeño los misterios y secretos que se ocultan detrás de una película. Salvatore va creciendo y llega el momento en el que debe abandonar el pueblo y buscarse la vida. Treinta años después recibe un mensaje, en el que le comunican que debe volver a casa.",
     "imagen":"https://pics.filmaffinity.com/Cinema_Paradiso-502451618-large.jpg",
-    "comentarios" : [{}]
+    "comentarios" : {}
 }
 ]
