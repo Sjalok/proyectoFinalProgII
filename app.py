@@ -66,7 +66,7 @@ def formulario():
     return render_template("formulario.html")
 
 @app.route("/registro", methods=["GET","POST"])
-def registro():
+def registro(): 
     diccAux = {}
     nombreAux = request.form.get("name")
     passAux = request.form.get("contrasenia")
@@ -247,7 +247,7 @@ def devolverPeliculas():
 
 @app.route("/peliculas/<nombre>")
 def devolverPeli(nombre):
-    if "username" not in session:
+    if "usuario" not in session:
         return jsonify({"error": "Necesitas estar logueado para ver el contenido"}), 401
     else:
         peliAux = nombre
